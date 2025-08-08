@@ -87,11 +87,17 @@ Ultimately, the prediction is to be used carefully, and only over many investmen
 
 ```
 /
-├── README.md                         # This file
-├── Python Notebooks                  # Jupyter notebooks
-├── data/                             # Data files (if any local data)
-├── results/                          # Output charts and model results
-└── requirements.txt                  # Python dependencies
+├── README.md                            # This file
+├── 1_main.ipynb                         # Main notebook that has the final takeaways
+├── 2_fundamental_data.ipynb             # Fundamental analysis workbook notebook
+├── 3_correlation_and_fair_price.ipynb   # Correlation and Fair Price workbook notebook
+├── 4_technical_price_prediction.ipynb   # Technical price prediction notebook
+├── ticker_data/                         # Data files downloaded  from Alphavantage data service for the capstone project
+├── quarterly_reports/                   # Quarterly reports data files downloaded  from Alphavantage data service for the capstone project
+├── fundamentals/                        # Fundamentals files downloaded  from Alphavantage data service for the capstone project
+├── earnings_data/                       # Historical Earnings Data files downloaded  from Alphavantage data service for the capstone project
+├── results/                             # Output charts and model results
+└── requirements.txt                     # Python dependencies
 ```
 
 ## Getting Started
