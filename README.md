@@ -203,3 +203,12 @@ This project demonstrates the complexity of stock price prediction, especially w
 
 Despite the challenges, the approach outlined here provides a solid foundation for further research and practical experimentation in financial time series forecasting.
 
+**As for clear recommendations:**
+
+- I have summarized my investment strategies via a public medium link : https://medium.com/@prasad-rao-19/stock-investing-tips-sector-analysis-5fe3fe34178b. These are calendar based, sector rotation strategies that seem to have a clear cyclic tendency every year.  
+- For individual stock recommendations, I have developed a strategy to swing trade for 60-90 days after the quarterly earnings. Fundamentals and sentiment data is used to find a direction and depending on the number of factors that support a direction one way or other, I was able to accurately predict the direction UP or DOWN for thne stock.
+- For day trading, I was able to get average daily direction for each month, as well as a quadratic regression that was able to predict a good direction. This is more of a momentum based trading strategy, and the quadratic regression provided a good average line, supported by an average for an average for the month of a typical year
+
+These clear recommendations are worth significant tidbits for the qualified investor / trader to take advantage of. This will definitely help me in my trading and investment.
+
+
