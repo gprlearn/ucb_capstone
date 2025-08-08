@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "SHOP",
+    "name": "Shopify Inc. Class A Subordinate Voting Shares",
+    "sector": "TECHNOLOGY",
+    "industry": "SERVICES-PREPACKAGED SOFTWARE",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "153183764000",
+    "shares_outstanding": "1218140000",
+    "52_week_high": "129.38",
+    "52_week_low": "48.56",
+    "50_day_ma": "113.57",
+    "200_day_ma": "104.95"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "96.42",
+    "peg_ratio": "1.119",
+    "price_to_book": "13.92",
+    "price_to_sales": "16.33",
+    "ev_revenue": "15.87",
+    "ev_ebitda": "121.38"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.172",
+    "operating_margin_ttm": "0.118",
+    "return_on_assets_ttm": "0.0708",
+    "return_on_equity_ttm": "0.162",
+    "gross_profit_ttm": "4684000000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "9379000000",
+    "revenue_per_share_ttm": "7.26",
+    "quarterly_revenue_growth": "0.268",
+    "quarterly_earnings_growth": "0.948",
+    "book_value": "8.52",
+    "diluted_eps_ttm": "1.23"
+  },
+  "dividend_info": {
+    "dividend_per_share": "None",
+    "dividend_yield": "None",
+    "dividend_date": "None",
+    "ex_dividend_date": "None"
+  },
+  "technical_indicators": {
+    "beta": "2.615",
+    "analyst_target_price": "120.36",
+    "trailing_pe": "96.42",
+    "forward_pe": "85.47"
+  }
+}

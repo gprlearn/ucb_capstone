@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": null,
+    "name": null,
+    "sector": null,
+    "industry": null,
+    "country": null,
+    "currency": null
+  },
+  "market_data": {
+    "market_cap": null,
+    "shares_outstanding": null,
+    "52_week_high": null,
+    "52_week_low": null,
+    "50_day_ma": null,
+    "200_day_ma": null
+  },
+  "valuation_ratios": {
+    "pe_ratio": null,
+    "peg_ratio": null,
+    "price_to_book": null,
+    "price_to_sales": null,
+    "ev_revenue": null,
+    "ev_ebitda": null
+  },
+  "profitability_metrics": {
+    "profit_margin": null,
+    "operating_margin_ttm": null,
+    "return_on_assets_ttm": null,
+    "return_on_equity_ttm": null,
+    "gross_profit_ttm": null
+  },
+  "financial_strength": {
+    "revenue_ttm": null,
+    "revenue_per_share_ttm": null,
+    "quarterly_revenue_growth": null,
+    "quarterly_earnings_growth": null,
+    "book_value": null,
+    "diluted_eps_ttm": null
+  },
+  "dividend_info": {
+    "dividend_per_share": null,
+    "dividend_yield": null,
+    "dividend_date": null,
+    "ex_dividend_date": null
+  },
+  "technical_indicators": {
+    "beta": null,
+    "analyst_target_price": null,
+    "trailing_pe": null,
+    "forward_pe": null
+  }
+}

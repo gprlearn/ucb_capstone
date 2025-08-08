@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "ATAT",
+    "name": "Atour Lifestyle Holdings Limited American Depositary Shares",
+    "sector": "REAL ESTATE & CONSTRUCTION",
+    "industry": "HOTELS & MOTELS",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "4623704000",
+    "shares_outstanding": "113626000",
+    "52_week_high": "37.46",
+    "52_week_low": "14.68",
+    "50_day_ma": "33.23",
+    "200_day_ma": "28.77"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "26.56",
+    "peg_ratio": "None",
+    "price_to_book": "10.08",
+    "price_to_sales": "0.602",
+    "ev_revenue": "3.91",
+    "ev_ebitda": "17.14"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.164",
+    "operating_margin_ttm": "0.186",
+    "return_on_assets_ttm": "0.141",
+    "return_on_equity_ttm": "0.449",
+    "gross_profit_ttm": "3288287000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "7685453000",
+    "revenue_per_share_ttm": "55.64",
+    "quarterly_revenue_growth": "0.298",
+    "quarterly_earnings_growth": "-0.065",
+    "book_value": "23.93",
+    "diluted_eps_ttm": "1.26"
+  },
+  "dividend_info": {
+    "dividend_per_share": "3.285",
+    "dividend_yield": "0.0126",
+    "dividend_date": "2025-06-18",
+    "ex_dividend_date": "2025-06-02"
+  },
+  "technical_indicators": {
+    "beta": "0.822",
+    "analyst_target_price": "39.27",
+    "trailing_pe": "26.56",
+    "forward_pe": "19.72"
+  }
+}

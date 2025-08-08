@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "CRCL",
+    "name": "Circle Internet Group, Inc.",
+    "sector": "TECHNOLOGY",
+    "industry": "GENERAL",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "23293999000",
+    "shares_outstanding": "0",
+    "52_week_high": "298.99",
+    "52_week_low": "31",
+    "50_day_ma": "83.23",
+    "200_day_ma": "83.23"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "None",
+    "peg_ratio": "None",
+    "price_to_book": "-",
+    "price_to_sales": "-",
+    "ev_revenue": "-",
+    "ev_ebitda": "-"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0",
+    "operating_margin_ttm": "0",
+    "return_on_assets_ttm": "0",
+    "return_on_equity_ttm": "0",
+    "gross_profit_ttm": "0"
+  },
+  "financial_strength": {
+    "revenue_ttm": "0",
+    "revenue_per_share_ttm": "0",
+    "quarterly_revenue_growth": "0",
+    "quarterly_earnings_growth": "0",
+    "book_value": "None",
+    "diluted_eps_ttm": "0"
+  },
+  "dividend_info": {
+    "dividend_per_share": "None",
+    "dividend_yield": "None",
+    "dividend_date": "None",
+    "ex_dividend_date": "None"
+  },
+  "technical_indicators": {
+    "beta": "None",
+    "analyst_target_price": "None",
+    "trailing_pe": "-",
+    "forward_pe": "-"
+  }
+}

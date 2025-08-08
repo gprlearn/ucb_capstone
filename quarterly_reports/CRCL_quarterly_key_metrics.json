@@ -1,0 +1,74 @@
+{
+  "2025-03-31": {
+    "income_statement": {
+      "total_revenue": 578573000.0,
+      "net_interest_income": 7965000.0,
+      "net_income": 64791000.0,
+      "gross_profit": 155306000.0,
+      "operating_income": 92940000.0,
+      "ebitda": 104052000.0,
+      "research_development": null,
+      "selling_general_admin": 30684000.0,
+      "interest_expense": 335000.0,
+      "income_before_tax": 89837000.0
+    },
+    "balance_sheet": {
+      "total_assets": 62262397000.0,
+      "total_current_assets": 61501891000.0,
+      "total_debt": 37414000.0,
+      "short_term_debt": null,
+      "long_term_debt": 37414000.0,
+      "total_current_liabilities": 60289036000.0,
+      "stockholders_equity": 744976000.0,
+      "retained_earnings": -1158410000.0,
+      "cash_and_equivalents": 848606000.0,
+      "inventory": null,
+      "accounts_receivable": 200339000.0
+    },
+    "cash_flow": {
+      "operating_cash_flow": 56593000.0,
+      "capital_expenditure": 11675000.0,
+      "free_cash_flow": 68268000.0,
+      "financing_cash_flow": 16263099000.0,
+      "investing_cash_flow": -25225000.0,
+      "dividends_paid": null,
+      "change_in_cash": null
+    }
+  },
+  "2024-03-31": {
+    "income_statement": {
+      "total_revenue": 365094000.0,
+      "net_interest_income": 8353000.0,
+      "net_income": 48639000.0,
+      "gross_profit": 97208000.0,
+      "operating_income": 52319000.0,
+      "ebitda": 84966000.0,
+      "research_development": null,
+      "selling_general_admin": 30517000.0,
+      "interest_expense": 497000.0,
+      "income_before_tax": 72876000.0
+    },
+    "balance_sheet": {
+      "total_assets": null,
+      "total_current_assets": null,
+      "total_debt": null,
+      "short_term_debt": null,
+      "long_term_debt": null,
+      "total_current_liabilities": null,
+      "stockholders_equity": null,
+      "retained_earnings": null,
+      "cash_and_equivalents": null,
+      "inventory": null,
+      "accounts_receivable": null
+    },
+    "cash_flow": {
+      "operating_cash_flow": 77167000.0,
+      "capital_expenditure": 8883000.0,
+      "free_cash_flow": 86050000.0,
+      "financing_cash_flow": 7829943000.0,
+      "investing_cash_flow": 6172000.0,
+      "dividends_paid": null,
+      "change_in_cash": null
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "JPM",
+    "name": "JPMorgan Chase & Co",
+    "sector": "FINANCE",
+    "industry": "NATIONAL COMMERCIAL BANKS",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "795671986000",
+    "shares_outstanding": "2749670000",
+    "52_week_high": "301.29",
+    "52_week_low": "186.71",
+    "50_day_ma": "280.12",
+    "200_day_ma": "254.16"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "14.84",
+    "peg_ratio": "3.859",
+    "price_to_book": "2.362",
+    "price_to_sales": "4.862",
+    "ev_revenue": "7.12",
+    "ev_ebitda": "-"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.345",
+    "operating_margin_ttm": "0.438",
+    "return_on_assets_ttm": "0.013",
+    "return_on_equity_ttm": "0.162",
+    "gross_profit_ttm": "163644998000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "163644998000",
+    "revenue_per_share_ttm": "57.9",
+    "quarterly_revenue_growth": "-0.106",
+    "quarterly_earnings_growth": "-0.144",
+    "book_value": "122.52",
+    "diluted_eps_ttm": "19.5"
+  },
+  "dividend_info": {
+    "dividend_per_share": "5.3",
+    "dividend_yield": "0.0179",
+    "dividend_date": "2025-07-31",
+    "ex_dividend_date": "2025-07-03"
+  },
+  "technical_indicators": {
+    "beta": "1.094",
+    "analyst_target_price": "303.74",
+    "trailing_pe": "14.84",
+    "forward_pe": "15.43"
+  }
+}

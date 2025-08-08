@@ -1,0 +1,68 @@
+{
+  "ticker": "MSFT",
+  "analysis_date": "2025-08-01 21:42:13",
+  "current_market_price": 524.1099853515625,
+  "stock_type": "Value",
+  "methods": {
+    "simple": {
+      "method": "Simple Correlation",
+      "stock_type": "Value",
+      "current_price": 431.926277406754,
+      "predicted_price": 566.954762080151,
+      "price_change_pct": 31.26192865229124,
+      "prediction_method": "Book Value Growth (ROE: 15.68%, Avg P/B: 20.14)",
+      "correlation_strength": 0.1868443769803886,
+      "confidence": "Medium"
+    },
+    "ml_ensemble": {
+      "method": "ML Ensemble",
+      "current_price": 418.7323932950459,
+      "predicted_price": 423.5696052978154,
+      "price_change_pct": 1.1552036766740208,
+      "individual_predictions": {
+        "RandomForest": 422.602406396412,
+        "XGBoost": "424.5368"
+      },
+      "confidence": "High",
+      "feature_count": 5,
+      "data_points": 5
+    },
+    "dcf_fundamental": {
+      "method": "DCF Fundamental",
+      "current_price": 431.926277406754,
+      "predicted_price": 32.13050094539141,
+      "price_change_pct": -92.56111456373989,
+      "individual_models": {
+        "RIM": 31.94284863350301,
+        "EPV": 32.15998674866632,
+        "DDM": 32.55540302020004
+      },
+      "model_weights": {
+        "RIM": 0.5,
+        "EPV": 0.3,
+        "DDM": 0.2
+      },
+      "confidence": "High",
+      "fundamental_inputs": {
+        "current_roe": 0.1347351048168526,
+        "book_value_growth": -0.47302479101060724,
+        "earnings_growth": -0.2029175623950733,
+        "required_return": 0.10197999999999999
+      },
+      "data_points": 5
+    }
+  },
+  "consensus": {
+    "direction": "UP",
+    "consensus_prediction": "UP",
+    "supporting_methods": [],
+    "support_count": 0,
+    "confidence_level": "Low"
+  },
+  "errors": {
+    "simple": null,
+    "ml_ensemble": null,
+    "dcf_fundamental": null,
+    "consensus": null
+  }
+}

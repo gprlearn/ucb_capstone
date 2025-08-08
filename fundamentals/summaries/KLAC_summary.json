@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "KLAC",
+    "name": "KLA-Tencor Corporation",
+    "sector": "LIFE SCIENCES",
+    "industry": "OPTICAL INSTRUMENTS & LENSES",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "117250163000",
+    "shares_outstanding": "132241000",
+    "52_week_high": "945.87",
+    "52_week_low": "550.01",
+    "50_day_ma": "870.63",
+    "200_day_ma": "735.63"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "29.16",
+    "peg_ratio": "1.656",
+    "price_to_book": "24.99",
+    "price_to_sales": "9.65",
+    "ev_revenue": "9.76",
+    "ev_ebitda": "22.21"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.334",
+    "operating_margin_ttm": "0.426",
+    "return_on_assets_ttm": "0.199",
+    "return_on_equity_ttm": "1.008",
+    "gross_profit_ttm": "7404295000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "12156162000",
+    "revenue_per_share_ttm": "91.38",
+    "quarterly_revenue_growth": "0.236",
+    "quarterly_earnings_growth": "0.465",
+    "book_value": "35.54",
+    "diluted_eps_ttm": "30.41"
+  },
+  "dividend_info": {
+    "dividend_per_share": "6.75",
+    "dividend_yield": "0.0077",
+    "dividend_date": "2025-06-03",
+    "ex_dividend_date": "2025-05-19"
+  },
+  "technical_indicators": {
+    "beta": "1.416",
+    "analyst_target_price": "924",
+    "trailing_pe": "29.16",
+    "forward_pe": "26.39"
+  }
+}

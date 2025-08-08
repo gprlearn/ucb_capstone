@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "TSSI",
+    "name": "TSS, Inc. Common Stock",
+    "sector": "TRADE & SERVICES",
+    "industry": "SERVICES-MANAGEMENT CONSULTING SERVICES",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "677805000",
+    "shares_outstanding": "25020500",
+    "52_week_high": "31.94",
+    "52_week_low": "2.12",
+    "50_day_ma": "22.34",
+    "200_day_ma": "12.96"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "75.25",
+    "peg_ratio": "0",
+    "price_to_book": "72.1",
+    "price_to_sales": "2.932",
+    "ev_revenue": "2.952",
+    "ev_ebitda": "49.61"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.0387",
+    "operating_margin_ttm": "0.0416",
+    "return_on_assets_ttm": "0.11",
+    "return_on_equity_ttm": "1.37",
+    "gross_profit_ttm": "28847000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "231211000",
+    "revenue_per_share_ttm": "10.15",
+    "quarterly_revenue_growth": "5.23",
+    "quarterly_earnings_growth": "178.1",
+    "book_value": "0.4",
+    "diluted_eps_ttm": "0.36"
+  },
+  "dividend_info": {
+    "dividend_per_share": "None",
+    "dividend_yield": "None",
+    "dividend_date": "None",
+    "ex_dividend_date": "None"
+  },
+  "technical_indicators": {
+    "beta": "1.664",
+    "analyst_target_price": "7",
+    "trailing_pe": "75.25",
+    "forward_pe": "-"
+  }
+}

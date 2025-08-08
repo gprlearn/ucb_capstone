@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "SOFI",
+    "name": "SoFi Technologies Inc.",
+    "sector": "REAL ESTATE & CONSTRUCTION",
+    "industry": "BLANK CHECKS",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "25394901000",
+    "shares_outstanding": "1196180000",
+    "52_week_high": "25.11",
+    "52_week_low": "6.01",
+    "50_day_ma": "17.44",
+    "200_day_ma": "14.59"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "42.46",
+    "peg_ratio": "3.252",
+    "price_to_book": "3.702",
+    "price_to_sales": "8.38",
+    "ev_revenue": "9.63",
+    "ev_ebitda": "-"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.185",
+    "operating_margin_ttm": "0.133",
+    "return_on_assets_ttm": "0.0152",
+    "return_on_equity_ttm": "0.088",
+    "gross_profit_ttm": "2491520000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "3029346000",
+    "revenue_per_share_ttm": "2.776",
+    "quarterly_revenue_growth": "0.439",
+    "quarterly_earnings_growth": "9.98",
+    "book_value": "6.16",
+    "diluted_eps_ttm": "0.5"
+  },
+  "dividend_info": {
+    "dividend_per_share": "None",
+    "dividend_yield": "None",
+    "dividend_date": "None",
+    "ex_dividend_date": "None"
+  },
+  "technical_indicators": {
+    "beta": "1.921",
+    "analyst_target_price": "20.06",
+    "trailing_pe": "42.46",
+    "forward_pe": "62.5"
+  }
+}

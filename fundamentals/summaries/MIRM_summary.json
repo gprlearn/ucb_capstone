@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "MIRM",
+    "name": "Mirum Pharmaceuticals Inc",
+    "sector": "LIFE SCIENCES",
+    "industry": "PHARMACEUTICAL PREPARATIONS",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "2576795000",
+    "shares_outstanding": "49534700",
+    "52_week_high": "54.78",
+    "52_week_low": "36.2",
+    "50_day_ma": "49.48",
+    "200_day_ma": "45.45"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "None",
+    "peg_ratio": "None",
+    "price_to_book": "11.05",
+    "price_to_sales": "6.79",
+    "ev_revenue": "6.9",
+    "ev_ebitda": "-8.85"
+  },
+  "profitability_metrics": {
+    "profit_margin": "-0.204",
+    "operating_margin_ttm": "-0.136",
+    "return_on_assets_ttm": "-0.0711",
+    "return_on_equity_ttm": "-0.331",
+    "gross_profit_ttm": "292420000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "379251000",
+    "revenue_per_share_ttm": "7.9",
+    "quarterly_revenue_growth": "0.612",
+    "quarterly_earnings_growth": "0",
+    "book_value": "4.717",
+    "diluted_eps_ttm": "-1.61"
+  },
+  "dividend_info": {
+    "dividend_per_share": "None",
+    "dividend_yield": "None",
+    "dividend_date": "None",
+    "ex_dividend_date": "None"
+  },
+  "technical_indicators": {
+    "beta": "0.971",
+    "analyst_target_price": "68.7",
+    "trailing_pe": "-",
+    "forward_pe": "39.68"
+  }
+}

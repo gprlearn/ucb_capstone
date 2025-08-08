@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "WMT",
+    "name": "Walmart Inc",
+    "sector": "TRADE & SERVICES",
+    "industry": "RETAIL-VARIETY STORES",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "785991533000",
+    "shares_outstanding": "7980420000",
+    "52_week_high": "104.76",
+    "52_week_low": "65.99",
+    "50_day_ma": "96.84",
+    "200_day_ma": "92.96"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "42.09",
+    "peg_ratio": "3.774",
+    "price_to_book": "9.38",
+    "price_to_sales": "1.147",
+    "ev_revenue": "1.232",
+    "ev_ebitda": "20.52"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.0275",
+    "operating_margin_ttm": "0.0431",
+    "return_on_assets_ttm": "0.0715",
+    "return_on_equity_ttm": "0.218",
+    "gross_profit_ttm": "170461004000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "685086015000",
+    "revenue_per_share_ttm": "85.31",
+    "quarterly_revenue_growth": "0.025",
+    "quarterly_earnings_growth": "-0.111",
+    "book_value": "10.49",
+    "diluted_eps_ttm": "2.34"
+  },
+  "dividend_info": {
+    "dividend_per_share": "0.858",
+    "dividend_yield": "0.0088",
+    "dividend_date": "2026-01-05",
+    "ex_dividend_date": "2025-08-15"
+  },
+  "technical_indicators": {
+    "beta": "0.677",
+    "analyst_target_price": "109.54",
+    "trailing_pe": "42.09",
+    "forward_pe": "37.74"
+  }
+}

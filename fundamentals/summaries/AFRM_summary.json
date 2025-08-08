@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "AFRM",
+    "name": "Affirm Holdings Inc",
+    "sector": "TRADE & SERVICES",
+    "industry": "SERVICES-BUSINESS SERVICES, NEC",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "21423868000",
+    "shares_outstanding": "281826000",
+    "52_week_high": "82.53",
+    "52_week_low": "22.25",
+    "50_day_ma": "62.54",
+    "200_day_ma": "57.55"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "None",
+    "peg_ratio": "45.16",
+    "price_to_book": "7.45",
+    "price_to_sales": "7.12",
+    "ev_revenue": "8.86",
+    "ev_ebitda": "45.39"
+  },
+  "profitability_metrics": {
+    "profit_margin": "-0.0207",
+    "operating_margin_ttm": "-0.0107",
+    "return_on_assets_ttm": "-0.0138",
+    "return_on_equity_ttm": "-0.0226",
+    "gross_profit_ttm": "1366489000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "3007180000",
+    "revenue_per_share_ttm": "9.4",
+    "quarterly_revenue_growth": "0.359",
+    "quarterly_earnings_growth": "0",
+    "book_value": "8.91",
+    "diluted_eps_ttm": "-0.19"
+  },
+  "dividend_info": {
+    "dividend_per_share": "None",
+    "dividend_yield": "None",
+    "dividend_date": "None",
+    "ex_dividend_date": "None"
+  },
+  "technical_indicators": {
+    "beta": "3.639",
+    "analyst_target_price": "73.66",
+    "trailing_pe": "-",
+    "forward_pe": "90.09"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "RMBS",
+    "name": "Rambus Inc",
+    "sector": "MANUFACTURING",
+    "industry": "SEMICONDUCTORS & RELATED DEVICES",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "7790882000",
+    "shares_outstanding": "107594000",
+    "52_week_high": "76.07",
+    "52_week_low": "37.42",
+    "50_day_ma": "62.23",
+    "200_day_ma": "56.36"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "34.32",
+    "peg_ratio": "3.801",
+    "price_to_book": "6.35",
+    "price_to_sales": "12.07",
+    "ev_revenue": "11.19",
+    "ev_ebitda": "24.15"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.355",
+    "operating_margin_ttm": "0.366",
+    "return_on_assets_ttm": "0.108",
+    "return_on_equity_ttm": "0.203",
+    "gross_profit_ttm": "526789000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "645488000",
+    "revenue_per_share_ttm": "6.02",
+    "quarterly_revenue_growth": "0.303",
+    "quarterly_earnings_growth": "0.606",
+    "book_value": "11.41",
+    "diluted_eps_ttm": "2.11"
+  },
+  "dividend_info": {
+    "dividend_per_share": "None",
+    "dividend_yield": "None",
+    "dividend_date": "None",
+    "ex_dividend_date": "None"
+  },
+  "technical_indicators": {
+    "beta": "1.238",
+    "analyst_target_price": "78.25",
+    "trailing_pe": "34.32",
+    "forward_pe": "20.45"
+  }
+}

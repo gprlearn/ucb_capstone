@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "CRWD",
+    "name": "Crowdstrike Holdings Inc",
+    "sector": "TECHNOLOGY",
+    "industry": "SERVICES-PREPACKAGED SOFTWARE",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "111329116000",
+    "shares_outstanding": "249248000",
+    "52_week_high": "517.98",
+    "52_week_low": "200.81",
+    "50_day_ma": "477.23",
+    "200_day_ma": "396.94"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "None",
+    "peg_ratio": "5.09",
+    "price_to_book": "32.26",
+    "price_to_sales": "26.92",
+    "ev_revenue": "25.99",
+    "ev_ebitda": "645.42"
+  },
+  "profitability_metrics": {
+    "profit_margin": "-0.0417",
+    "operating_margin_ttm": "-0.107",
+    "return_on_assets_ttm": "-0.0147",
+    "return_on_equity_ttm": "-0.0574",
+    "gross_profit_ttm": "3080401000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "4136022000",
+    "revenue_per_share_ttm": "16.8",
+    "quarterly_revenue_growth": "0.198",
+    "quarterly_earnings_growth": "5.33",
+    "book_value": "13.86",
+    "diluted_eps_ttm": "-0.71"
+  },
+  "dividend_info": {
+    "dividend_per_share": "None",
+    "dividend_yield": "None",
+    "dividend_date": "None",
+    "ex_dividend_date": "None"
+  },
+  "technical_indicators": {
+    "beta": "1.157",
+    "analyst_target_price": "482.69",
+    "trailing_pe": "-",
+    "forward_pe": "126.58"
+  }
+}

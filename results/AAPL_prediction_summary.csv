@@ -1,0 +1,2 @@
+Ticker,Analysis_Date,Current_Price,Stock_Type,Simple_Prediction,Simple_Change_%,ML_Prediction,ML_Change_%,DCF_Prediction,DCF_Change_%,Consensus_Direction,Supporting_Methods,Confidence_Level
+AAPL,2025-08-01 21:42:13,202.3800048828125,Growth,212.99588415604106,-8.08328239427004,195.05083783011963,7.981542943844927,11.363961040198877,-95.09597097637226,DOWN++,"ML, DCF",High

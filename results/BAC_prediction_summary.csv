@@ -1,0 +1,2 @@
+Ticker,Analysis_Date,Current_Price,Stock_Type,Simple_Prediction,Simple_Change_%,ML_Prediction,ML_Change_%,DCF_Prediction,DCF_Change_%,Consensus_Direction,Supporting_Methods,Confidence_Level
+BAC,2025-08-01 21:03:29,45.65999984741211,Growth,40.78007183313236,-2.4387649477155815,40.14525399250368,7.811813347507374,23.063339247005022,-44.823837717237254,DOWN++,"ML, DCF",High

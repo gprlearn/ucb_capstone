@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "JBL",
+    "name": "Jabil Circuit Inc",
+    "sector": "MANUFACTURING",
+    "industry": "PRINTED CIRCUIT BOARDS",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "23455640000",
+    "shares_outstanding": "107319000",
+    "52_week_high": "232.84",
+    "52_week_low": "95.63",
+    "50_day_ma": "202.23",
+    "200_day_ma": "158.46"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "41.63",
+    "peg_ratio": "0.91",
+    "price_to_book": "18.25",
+    "price_to_sales": "0.823",
+    "ev_revenue": "0.886",
+    "ev_ebitda": "14.19"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.0202",
+    "operating_margin_ttm": "0.0491",
+    "return_on_assets_ttm": "0.0463",
+    "return_on_equity_ttm": "0.324",
+    "gross_profit_ttm": "2526000000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "28514001000",
+    "revenue_per_share_ttm": "256.02",
+    "quarterly_revenue_growth": "0.157",
+    "quarterly_earnings_growth": "0.915",
+    "book_value": "11.97",
+    "diluted_eps_ttm": "5.25"
+  },
+  "dividend_info": {
+    "dividend_per_share": "0.32",
+    "dividend_yield": "0.0014",
+    "dividend_date": "2025-09-03",
+    "ex_dividend_date": "2025-08-15"
+  },
+  "technical_indicators": {
+    "beta": "1.202",
+    "analyst_target_price": "227.5",
+    "trailing_pe": "41.63",
+    "forward_pe": "20.66"
+  }
+}

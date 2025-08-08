@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "COIN",
+    "name": "Coinbase Global Inc",
+    "sector": "FINANCE",
+    "industry": "FINANCE SERVICES",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "80855818000",
+    "shares_outstanding": "215159000",
+    "52_week_high": "444.64",
+    "52_week_low": "142.58",
+    "50_day_ma": "325.25",
+    "200_day_ma": "262.52"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "30.32",
+    "peg_ratio": "12.2",
+    "price_to_book": "6.69",
+    "price_to_sales": "12.06",
+    "ev_revenue": "10.8",
+    "ev_ebitda": "20.55"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.427",
+    "operating_margin_ttm": "-0.0717",
+    "return_on_assets_ttm": "0.0064",
+    "return_on_equity_ttm": "0.28",
+    "gross_profit_ttm": "5668932000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "6706042000",
+    "revenue_per_share_ttm": "26.57",
+    "quarterly_revenue_growth": "0.029",
+    "quarterly_earnings_growth": "36.93",
+    "book_value": "47.17",
+    "diluted_eps_ttm": "10.38"
+  },
+  "dividend_info": {
+    "dividend_per_share": "None",
+    "dividend_yield": "None",
+    "dividend_date": "None",
+    "ex_dividend_date": "None"
+  },
+  "technical_indicators": {
+    "beta": "3.712",
+    "analyst_target_price": "367.85",
+    "trailing_pe": "30.32",
+    "forward_pe": "57.14"
+  }
+}

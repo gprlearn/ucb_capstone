@@ -1,0 +1,69 @@
+{
+  "ticker": "TSLA",
+  "analysis_date": "2025-08-01 21:42:15",
+  "current_market_price": 302.6300048828125,
+  "stock_type": "Growth",
+  "methods": {
+    "simple": {
+      "method": "Simple Correlation",
+      "stock_type": "Growth",
+      "current_price": 300.3322584090694,
+      "predicted_price": 271.3721670912094,
+      "price_change_pct": -9.64268422954911,
+      "prediction_method": "P/B Trend (Current: 12.59, Trend: -1.214)",
+      "correlation_strength": 0.9881489740020448,
+      "confidence": "High"
+    },
+    "ml_ensemble": {
+      "method": "ML Ensemble",
+      "current_price": 174.76936509874133,
+      "predicted_price": 245.37312740636298,
+      "price_change_pct": 40.398248438867924,
+      "individual_predictions": {
+        "RandomForest": 263.2105187287416,
+        "XGBoost": "227.53574"
+      },
+      "confidence": "Low",
+      "feature_count": 5,
+      "data_points": 5
+    },
+    "dcf_fundamental": {
+      "method": "DCF Fundamental",
+      "current_price": 300.3322584090694,
+      "predicted_price": 22.505808734135684,
+      "price_change_pct": -92.50636316812779,
+      "individual_models": {
+        "RIM": 24.56263098930835,
+        "EPV": 19.077771642181244
+      },
+      "model_weights": {
+        "RIM": 0.625,
+        "EPV": 0.37499999999999994
+      },
+      "confidence": "High",
+      "fundamental_inputs": {
+        "current_roe": 0.013838094141786036,
+        "book_value_growth": -0.14924885500218066,
+        "earnings_growth": 0.5,
+        "required_return": 0.18388000000000002
+      },
+      "data_points": 5
+    }
+  },
+  "consensus": {
+    "direction": "DOWN",
+    "consensus_prediction": "DOWN++",
+    "supporting_methods": [
+      "ML",
+      "DCF"
+    ],
+    "support_count": 2,
+    "confidence_level": "High"
+  },
+  "errors": {
+    "simple": null,
+    "ml_ensemble": null,
+    "dcf_fundamental": null,
+    "consensus": null
+  }
+}

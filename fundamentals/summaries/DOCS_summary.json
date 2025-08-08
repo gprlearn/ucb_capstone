@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "DOCS",
+    "name": "Doximity Inc",
+    "sector": "TECHNOLOGY",
+    "industry": "SERVICES-COMPUTER PROGRAMMING SERVICES",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "10744617000",
+    "shares_outstanding": "136498000",
+    "52_week_high": "85.21",
+    "52_week_low": "25.0",
+    "50_day_ma": "58.05",
+    "200_day_ma": "56.9"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "51.65",
+    "peg_ratio": "2.419",
+    "price_to_book": "9.92",
+    "price_to_sales": "18.84",
+    "ev_revenue": "17.25",
+    "ev_ebitda": "40.88"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.391",
+    "operating_margin_ttm": "0.353",
+    "return_on_assets_ttm": "0.123",
+    "return_on_equity_ttm": "0.225",
+    "gross_profit_ttm": "514525000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "570399000",
+    "revenue_per_share_ttm": "3.053",
+    "quarterly_revenue_growth": "0.171",
+    "quarterly_earnings_growth": "0.543",
+    "book_value": "5.73",
+    "diluted_eps_ttm": "1.11"
+  },
+  "dividend_info": {
+    "dividend_per_share": "None",
+    "dividend_yield": "None",
+    "dividend_date": "None",
+    "ex_dividend_date": "None"
+  },
+  "technical_indicators": {
+    "beta": "1.367",
+    "analyst_target_price": "63.22",
+    "trailing_pe": "51.65",
+    "forward_pe": "41.49"
+  }
+}

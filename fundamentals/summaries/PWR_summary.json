@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "PWR",
+    "name": "Quanta Services Inc",
+    "sector": "REAL ESTATE & CONSTRUCTION",
+    "industry": "ELECTRICAL WORK",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "58882703000",
+    "shares_outstanding": "149006000",
+    "52_week_high": "424.94",
+    "52_week_low": "226.82",
+    "50_day_ma": "373.85",
+    "200_day_ma": "320.79"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "61.36",
+    "peg_ratio": "2.467",
+    "price_to_book": "7.49",
+    "price_to_sales": "2.26",
+    "ev_revenue": "2.437",
+    "ev_ebitda": "26.81"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.0373",
+    "operating_margin_ttm": "0.054",
+    "return_on_assets_ttm": "0.0508",
+    "return_on_equity_ttm": "0.137",
+    "gross_profit_ttm": "3917547000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "26052930000",
+    "revenue_per_share_ttm": "176.06",
+    "quarterly_revenue_growth": "0.211",
+    "quarterly_earnings_growth": "0.206",
+    "book_value": "52.92",
+    "diluted_eps_ttm": "6.44"
+  },
+  "dividend_info": {
+    "dividend_per_share": "0.39",
+    "dividend_yield": "0.001",
+    "dividend_date": "2025-07-11",
+    "ex_dividend_date": "2025-07-01"
+  },
+  "technical_indicators": {
+    "beta": "1.078",
+    "analyst_target_price": "412.75",
+    "trailing_pe": "61.36",
+    "forward_pe": "38.02"
+  }
+}

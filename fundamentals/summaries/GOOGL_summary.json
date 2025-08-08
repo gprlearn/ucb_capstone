@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "GOOGL",
+    "name": "Alphabet Inc Class A",
+    "sector": "TECHNOLOGY",
+    "industry": "SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC.",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "2291782910000",
+    "shares_outstanding": "5817000000",
+    "52_week_high": "206.56",
+    "52_week_low": "140.36",
+    "50_day_ma": "178.11",
+    "200_day_ma": "175.03"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "20.16",
+    "peg_ratio": "1.406",
+    "price_to_book": "6.3",
+    "price_to_sales": "6.17",
+    "ev_revenue": "6.01",
+    "ev_ebitda": "14.15"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.311",
+    "operating_margin_ttm": "0.324",
+    "return_on_assets_ttm": "0.168",
+    "return_on_equity_ttm": "0.348",
+    "gross_profit_ttm": "218911998000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "371399000000",
+    "revenue_per_share_ttm": "30.43",
+    "quarterly_revenue_growth": "0.138",
+    "quarterly_earnings_growth": "0.223",
+    "book_value": "29.98",
+    "diluted_eps_ttm": "9.38"
+  },
+  "dividend_info": {
+    "dividend_per_share": "1.01",
+    "dividend_yield": "0.0053",
+    "dividend_date": "2025-09-15",
+    "ex_dividend_date": "2025-09-08"
+  },
+  "technical_indicators": {
+    "beta": "1.005",
+    "analyst_target_price": "216.01",
+    "trailing_pe": "20.16",
+    "forward_pe": "19.65"
+  }
+}

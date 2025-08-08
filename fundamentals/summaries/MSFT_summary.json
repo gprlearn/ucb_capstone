@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "MSFT",
+    "name": "Microsoft Corporation",
+    "sector": "TECHNOLOGY",
+    "industry": "SERVICES-PREPACKAGED SOFTWARE",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "3895798530000",
+    "shares_outstanding": "7433170000",
+    "52_week_high": "555.45",
+    "52_week_low": "344.16",
+    "50_day_ma": "488.56",
+    "200_day_ma": "432.83"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "38.45",
+    "peg_ratio": "2.382",
+    "price_to_book": "11.34",
+    "price_to_sales": "13.83",
+    "ev_revenue": "13.71",
+    "ev_ebitda": "24.11"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.361",
+    "operating_margin_ttm": "0.449",
+    "return_on_assets_ttm": "0.142",
+    "return_on_equity_ttm": "0.333",
+    "gross_profit_ttm": "193893007000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "281723994000",
+    "revenue_per_share_ttm": "37.9",
+    "quarterly_revenue_growth": "0.181",
+    "quarterly_earnings_growth": "0.237",
+    "book_value": "46.2",
+    "diluted_eps_ttm": "13.63"
+  },
+  "dividend_info": {
+    "dividend_per_share": "3.32",
+    "dividend_yield": "0.0062",
+    "dividend_date": "2025-09-11",
+    "ex_dividend_date": "2025-08-21"
+  },
+  "technical_indicators": {
+    "beta": "1.033",
+    "analyst_target_price": "594.57",
+    "trailing_pe": "38.45",
+    "forward_pe": "34.25"
+  }
+}

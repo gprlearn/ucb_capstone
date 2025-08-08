@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "BK",
+    "name": "The Bank of New York Mellon Corporation",
+    "sector": "FINANCE",
+    "industry": "STATE COMMERCIAL BANKS",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "70390104000",
+    "shares_outstanding": "705241000",
+    "52_week_high": "103.16",
+    "52_week_low": "59.53",
+    "50_day_ma": "93.04",
+    "200_day_ma": "84.14"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "15.26",
+    "peg_ratio": "1.152",
+    "price_to_book": "1.823",
+    "price_to_sales": "3.653",
+    "ev_revenue": "5.89",
+    "ev_ebitda": "-"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.258",
+    "operating_margin_ttm": "0.369",
+    "return_on_assets_ttm": "0.0109",
+    "return_on_equity_ttm": "0.117",
+    "gross_profit_ttm": "19271000000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "19271000000",
+    "revenue_per_share_ttm": "26.56",
+    "quarterly_revenue_growth": "0.097",
+    "quarterly_earnings_growth": "0.27",
+    "book_value": "54.76",
+    "diluted_eps_ttm": "6.54"
+  },
+  "dividend_info": {
+    "dividend_per_share": "1.88",
+    "dividend_yield": "0.0185",
+    "dividend_date": "2025-08-07",
+    "ex_dividend_date": "2025-07-25"
+  },
+  "technical_indicators": {
+    "beta": "1.066",
+    "analyst_target_price": "101.11",
+    "trailing_pe": "15.26",
+    "forward_pe": "14.41"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "fiscal_date_ending": "2000-09-30",
+  "reported_date": "2000-10-18",
+  "reported_eps": 0.01,
+  "estimated_eps": 0.02,
+  "surprise": -0.01,
+  "surprise_percentage": -50.0
+}

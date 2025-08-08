@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "AMZN",
+    "name": "Amazon.com Inc",
+    "sector": "TRADE & SERVICES",
+    "industry": "RETAIL-CATALOG & MAIL-ORDER HOUSES",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "2290287116000",
+    "shares_outstanding": "10664900000",
+    "52_week_high": "242.52",
+    "52_week_low": "151.61",
+    "50_day_ma": "217.61",
+    "200_day_ma": "209.57"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "32.79",
+    "peg_ratio": "2.577",
+    "price_to_book": "6.86",
+    "price_to_sales": "3.418",
+    "ev_revenue": "3.479",
+    "ev_ebitda": "16.22"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.105",
+    "operating_margin_ttm": "0.114",
+    "return_on_assets_ttm": "0.077",
+    "return_on_equity_ttm": "0.248",
+    "gross_profit_ttm": "332382994000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "670038032000",
+    "revenue_per_share_ttm": "63.37",
+    "quarterly_revenue_growth": "0.133",
+    "quarterly_earnings_growth": "0.333",
+    "book_value": "31.31",
+    "diluted_eps_ttm": "6.55"
+  },
+  "dividend_info": {
+    "dividend_per_share": "None",
+    "dividend_yield": "None",
+    "dividend_date": "None",
+    "ex_dividend_date": "None"
+  },
+  "technical_indicators": {
+    "beta": "1.337",
+    "analyst_target_price": "259.9",
+    "trailing_pe": "32.79",
+    "forward_pe": "33.56"
+  }
+}

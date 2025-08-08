@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "OUST",
+    "name": "Ouster, Inc. Common Stock",
+    "sector": "TECHNOLOGY",
+    "industry": "GENERAL INDUSTRIAL MACHINERY & EQUIPMENT, NEC",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "1182414000",
+    "shares_outstanding": "53795000",
+    "52_week_high": "31.77",
+    "52_week_low": "5.84",
+    "50_day_ma": "20.82",
+    "200_day_ma": "12.15"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "None",
+    "peg_ratio": "None",
+    "price_to_book": "7.04",
+    "price_to_sales": "10.04",
+    "ev_revenue": "8.77",
+    "ev_ebitda": "-0.842"
+  },
+  "profitability_metrics": {
+    "profit_margin": "-0.808",
+    "operating_margin_ttm": "-0.73",
+    "return_on_assets_ttm": "-0.218",
+    "return_on_equity_ttm": "-0.568",
+    "gross_profit_ttm": "46518000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "117789000",
+    "revenue_per_share_ttm": "2.412",
+    "quarterly_revenue_growth": "0.258",
+    "quarterly_earnings_growth": "0",
+    "book_value": "3.122",
+    "diluted_eps_ttm": "-1.95"
+  },
+  "dividend_info": {
+    "dividend_per_share": "None",
+    "dividend_yield": "None",
+    "dividend_date": "None",
+    "ex_dividend_date": "None"
+  },
+  "technical_indicators": {
+    "beta": "2.749",
+    "analyst_target_price": "18.11",
+    "trailing_pe": "-",
+    "forward_pe": "-"
+  }
+}

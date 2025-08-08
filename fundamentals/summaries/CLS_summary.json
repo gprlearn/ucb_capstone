@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "CLS",
+    "name": "Celestica Inc.",
+    "sector": "MANUFACTURING",
+    "industry": "PRINTED CIRCUIT BOARDS",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "22401528000",
+    "shares_outstanding": "115033000",
+    "52_week_high": "214.47",
+    "52_week_low": "40.25",
+    "50_day_ma": "146.42",
+    "200_day_ma": "106.6"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "42.33",
+    "peg_ratio": "19.42",
+    "price_to_book": "12.74",
+    "price_to_sales": "2.116",
+    "ev_revenue": "2.161",
+    "ev_ebitda": "25.51"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.0509",
+    "operating_margin_ttm": "0.099",
+    "return_on_assets_ttm": "0.0782",
+    "return_on_equity_ttm": "0.302",
+    "gross_profit_ttm": "1202700000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "10587199000",
+    "revenue_per_share_ttm": "90.95",
+    "quarterly_revenue_growth": "0.21",
+    "quarterly_earnings_growth": "1.276",
+    "book_value": "15.29",
+    "diluted_eps_ttm": "4.6"
+  },
+  "dividend_info": {
+    "dividend_per_share": "None",
+    "dividend_yield": "None",
+    "dividend_date": "None",
+    "ex_dividend_date": "None"
+  },
+  "technical_indicators": {
+    "beta": "1.692",
+    "analyst_target_price": "217.58",
+    "trailing_pe": "42.33",
+    "forward_pe": "35.46"
+  }
+}

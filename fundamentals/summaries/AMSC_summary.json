@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "AMSC",
+    "name": "American Superconductor Corporation",
+    "sector": "MANUFACTURING",
+    "industry": "MOTORS & GENERATORS",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "2427398000",
+    "shares_outstanding": "45160900",
+    "52_week_high": "57.85",
+    "52_week_low": "13.98",
+    "50_day_ma": "36.0",
+    "200_day_ma": "27.77"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "134.38",
+    "peg_ratio": "-0.06",
+    "price_to_book": "7.28",
+    "price_to_sales": "9.52",
+    "ev_revenue": "8.71",
+    "ev_ebitda": "127.44"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.0599",
+    "operating_margin_ttm": "0.078",
+    "return_on_assets_ttm": "0.0224",
+    "return_on_equity_ttm": "0.0641",
+    "gross_profit_ttm": "74818000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "254886000",
+    "revenue_per_share_ttm": "6.75",
+    "quarterly_revenue_growth": "0.796",
+    "quarterly_earnings_growth": "0",
+    "book_value": "7.38",
+    "diluted_eps_ttm": "0.4"
+  },
+  "dividend_info": {
+    "dividend_per_share": "None",
+    "dividend_yield": "None",
+    "dividend_date": "None",
+    "ex_dividend_date": "None"
+  },
+  "technical_indicators": {
+    "beta": "2.916",
+    "analyst_target_price": "66.67",
+    "trailing_pe": "134.38",
+    "forward_pe": "99.01"
+  }
+}

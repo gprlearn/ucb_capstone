@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "HEI",
+    "name": "Heico Corporation",
+    "sector": "MANUFACTURING",
+    "industry": "AIRCRAFT ENGINES & ENGINE PARTS",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "39521518000",
+    "shares_outstanding": "55049000",
+    "52_week_high": "328.63",
+    "52_week_low": "216.6",
+    "50_day_ma": "310.77",
+    "200_day_ma": "266.86"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "75.78",
+    "peg_ratio": "2.962",
+    "price_to_book": "11.4",
+    "price_to_sales": "9.56",
+    "ev_revenue": "10.05",
+    "ev_ebitda": "37.88"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.145",
+    "operating_margin_ttm": "0.226",
+    "return_on_assets_ttm": "0.0744",
+    "return_on_equity_ttm": "0.157",
+    "gross_profit_ttm": "1626628000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "4133953000",
+    "revenue_per_share_ttm": "29.79",
+    "quarterly_revenue_growth": "0.149",
+    "quarterly_earnings_growth": "0.273",
+    "book_value": "28.52",
+    "diluted_eps_ttm": "4.29"
+  },
+  "dividend_info": {
+    "dividend_per_share": "0.22",
+    "dividend_yield": "0.0007",
+    "dividend_date": "2025-07-15",
+    "ex_dividend_date": "2025-07-01"
+  },
+  "technical_indicators": {
+    "beta": "1.084",
+    "analyst_target_price": "322.65",
+    "trailing_pe": "75.78",
+    "forward_pe": "62.5"
+  }
+}

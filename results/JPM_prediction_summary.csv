@@ -1,0 +1,2 @@
+Ticker,Analysis_Date,Current_Price,Stock_Type,Simple_Prediction,Simple_Change_%,ML_Prediction,ML_Change_%,DCF_Prediction,DCF_Change_%,Consensus_Direction,Supporting_Methods,Confidence_Level
+JPM,2025-08-01 21:03:28,289.3699951171875,Growth,236.69067325352182,-6.07993398015419,197.73019609215152,13.340014183138946,82.59812868654258,-67.22464137382157,DOWN++,"ML, DCF",High

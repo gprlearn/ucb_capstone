@@ -1,0 +1,2 @@
+Ticker,Analysis_Date,Current_Price,Stock_Type,Simple_Prediction,Simple_Change_%,ML_Prediction,ML_Change_%,DCF_Prediction,DCF_Change_%,Consensus_Direction,Supporting_Methods,Confidence_Level
+WFC,2025-08-01 21:03:29,77.77999877929688,Growth,68.88698102179626,-7.521461171756284,57.623071838651384,13.689305197333434,33.94975064295097,-54.42356035242803,DOWN++,"ML, DCF",High

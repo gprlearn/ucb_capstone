@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "ALAB",
+    "name": "Astera Labs, Inc. Common Stock",
+    "sector": "MANUFACTURING",
+    "industry": "SEMICONDUCTORS & RELATED DEVICES",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "21620619000",
+    "shares_outstanding": "164917000",
+    "52_week_high": "147.39",
+    "52_week_low": "36.22",
+    "50_day_ma": "99.43",
+    "200_day_ma": "92.06"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "100.08",
+    "peg_ratio": "None",
+    "price_to_book": "20.76",
+    "price_to_sales": "44.08",
+    "ev_revenue": "42.22",
+    "ev_ebitda": "-392.01"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.0844",
+    "operating_margin_ttm": "0.0708",
+    "return_on_assets_ttm": "-0.0137",
+    "return_on_equity_ttm": "0.0447",
+    "gross_profit_ttm": "371590000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "490474000",
+    "revenue_per_share_ttm": "3.086",
+    "quarterly_revenue_growth": "1.443",
+    "quarterly_earnings_growth": "-0.625",
+    "book_value": "6.32",
+    "diluted_eps_ttm": "1.31"
+  },
+  "dividend_info": {
+    "dividend_per_share": "None",
+    "dividend_yield": "None",
+    "dividend_date": "None",
+    "ex_dividend_date": "None"
+  },
+  "technical_indicators": {
+    "beta": "None",
+    "analyst_target_price": "106.94",
+    "trailing_pe": "100.08",
+    "forward_pe": "100"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "C",
+    "name": "Citigroup Inc",
+    "sector": "FINANCE",
+    "industry": "NATIONAL COMMERCIAL BANKS",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "169049850000",
+    "shares_outstanding": "1840900000",
+    "52_week_high": "96.91",
+    "52_week_low": "52.26",
+    "50_day_ma": "83.96",
+    "200_day_ma": "74.49"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "13.56",
+    "peg_ratio": "1.034",
+    "price_to_book": "0.859",
+    "price_to_sales": "2.305",
+    "ev_revenue": "6.72",
+    "ev_ebitda": "-"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.193",
+    "operating_margin_ttm": "0.272",
+    "return_on_assets_ttm": "0.0057",
+    "return_on_equity_ttm": "0.0676",
+    "gross_profit_ttm": "73325003000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "73325003000",
+    "revenue_per_share_ttm": "38.99",
+    "quarterly_revenue_growth": "0.079",
+    "quarterly_earnings_growth": "0.285",
+    "book_value": "106.94",
+    "diluted_eps_ttm": "6.77"
+  },
+  "dividend_info": {
+    "dividend_per_share": "2.24",
+    "dividend_yield": "0.0239",
+    "dividend_date": "2025-08-22",
+    "ex_dividend_date": "2025-08-04"
+  },
+  "technical_indicators": {
+    "beta": "1.329",
+    "analyst_target_price": "101.17",
+    "trailing_pe": "13.56",
+    "forward_pe": "12.3"
+  }
+}

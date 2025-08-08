@@ -1,0 +1,2 @@
+Ticker,Analysis_Date,Current_Price,Stock_Type,Simple_Prediction,Simple_Change_%,ML_Prediction,ML_Change_%,DCF_Prediction,DCF_Change_%,Consensus_Direction,Supporting_Methods,Confidence_Level
+GOOGL,2025-08-01 21:42:14,189.1300048828125,Growth,171.75730004028114,5.247888090320388,168.19120863096174,0.3468031738282942,22.605189274318874,-86.14819614394233,UP+,ML,Medium

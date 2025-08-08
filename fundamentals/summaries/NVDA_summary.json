@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "NVDA",
+    "name": "NVIDIA Corporation",
+    "sector": "MANUFACTURING",
+    "industry": "SEMICONDUCTORS & RELATED DEVICES",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "4236614042000",
+    "shares_outstanding": "24387600000",
+    "52_week_high": "183.3",
+    "52_week_low": "86.61",
+    "50_day_ma": "154.51",
+    "200_day_ma": "134.76"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "56.22",
+    "peg_ratio": "1.684",
+    "price_to_book": "50.53",
+    "price_to_sales": "28.53",
+    "ev_revenue": "28.24",
+    "ev_ebitda": "46.11"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.517",
+    "operating_margin_ttm": "0.491",
+    "return_on_assets_ttm": "0.532",
+    "return_on_equity_ttm": "1.155",
+    "gross_profit_ttm": "104120001000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "148514996000",
+    "revenue_per_share_ttm": "6.06",
+    "quarterly_revenue_growth": "0.692",
+    "quarterly_earnings_growth": "0.267",
+    "book_value": "3.438",
+    "diluted_eps_ttm": "3.09"
+  },
+  "dividend_info": {
+    "dividend_per_share": "0.04",
+    "dividend_yield": "0.0002",
+    "dividend_date": "2025-07-03",
+    "ex_dividend_date": "2025-06-11"
+  },
+  "technical_indicators": {
+    "beta": "2.131",
+    "analyst_target_price": "182.79",
+    "trailing_pe": "56.22",
+    "forward_pe": "38.91"
+  }
+}

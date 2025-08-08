@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "VRT",
+    "name": "Vertiv Holdings Co",
+    "sector": "REAL ESTATE & CONSTRUCTION",
+    "industry": "BLANK CHECKS",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "54068548000",
+    "shares_outstanding": "381867000",
+    "52_week_high": "155.72",
+    "52_week_low": "53.58",
+    "50_day_ma": "121.6",
+    "200_day_ma": "110.35"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "67.42",
+    "peg_ratio": "1.039",
+    "price_to_book": "17.3",
+    "price_to_sales": "5.95",
+    "ev_revenue": "6.1",
+    "ev_ebitda": "34.73"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.0893",
+    "operating_margin_ttm": "0.169",
+    "return_on_assets_ttm": "0.107",
+    "return_on_equity_ttm": "0.348",
+    "gross_profit_ttm": "3209700000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "9094000000",
+    "revenue_per_share_ttm": "24.02",
+    "quarterly_revenue_growth": "0.351",
+    "quarterly_earnings_growth": "0.804",
+    "book_value": "8.19",
+    "diluted_eps_ttm": "2.1"
+  },
+  "dividend_info": {
+    "dividend_per_share": "0.063",
+    "dividend_yield": "0.0004",
+    "dividend_date": "2025-06-26",
+    "ex_dividend_date": "2025-06-16"
+  },
+  "technical_indicators": {
+    "beta": "1.753",
+    "analyst_target_price": "154.96",
+    "trailing_pe": "67.42",
+    "forward_pe": "38.76"
+  }
+}

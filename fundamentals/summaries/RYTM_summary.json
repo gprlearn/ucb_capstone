@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "RYTM",
+    "name": "Rhythm Pharmaceuticals Inc",
+    "sector": "LIFE SCIENCES",
+    "industry": "PHARMACEUTICAL PREPARATIONS",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "5826838000",
+    "shares_outstanding": "65989000",
+    "52_week_high": "94.8",
+    "52_week_low": "40.61",
+    "50_day_ma": "72.33",
+    "200_day_ma": "60.65"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "None",
+    "peg_ratio": "None",
+    "price_to_book": "307.78",
+    "price_to_sales": "42.57",
+    "ev_revenue": "41.39",
+    "ev_ebitda": "-12.65"
+  },
+  "profitability_metrics": {
+    "profit_margin": "-1.233",
+    "operating_margin_ttm": "-1.437",
+    "return_on_assets_ttm": "-0.513",
+    "return_on_equity_ttm": "-1.502",
+    "gross_profit_ttm": "122654000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "136863000",
+    "revenue_per_share_ttm": "2.217",
+    "quarterly_revenue_growth": "0.259",
+    "quarterly_earnings_growth": "0",
+    "book_value": "0.298",
+    "diluted_eps_ttm": "-2.8"
+  },
+  "dividend_info": {
+    "dividend_per_share": "None",
+    "dividend_yield": "None",
+    "dividend_date": "None",
+    "ex_dividend_date": "None"
+  },
+  "technical_indicators": {
+    "beta": "2.268",
+    "analyst_target_price": "104.57",
+    "trailing_pe": "-",
+    "forward_pe": "-"
+  }
+}

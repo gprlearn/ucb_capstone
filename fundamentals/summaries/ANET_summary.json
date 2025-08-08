@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "ANET",
+    "name": "Arista Networks",
+    "sector": "TECHNOLOGY",
+    "industry": "COMPUTER COMMUNICATIONS EQUIPMENT",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "147658506000",
+    "shares_outstanding": "1255920000",
+    "52_week_high": "133.57",
+    "52_week_low": "59.43",
+    "50_day_ma": "101.3",
+    "200_day_ma": "98.36"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "49.61",
+    "peg_ratio": "3.152",
+    "price_to_book": "14.59",
+    "price_to_sales": "19.86",
+    "ev_revenue": "19.26",
+    "ev_ebitda": "44.72"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.407",
+    "operating_margin_ttm": "0.428",
+    "return_on_assets_ttm": "0.157",
+    "return_on_equity_ttm": "0.337",
+    "gross_profit_ttm": "4766003000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "7436546000",
+    "revenue_per_share_ttm": "5.91",
+    "quarterly_revenue_growth": "0.276",
+    "quarterly_earnings_growth": "0.28",
+    "book_value": "8.05",
+    "diluted_eps_ttm": "2.37"
+  },
+  "dividend_info": {
+    "dividend_per_share": "None",
+    "dividend_yield": "None",
+    "dividend_date": "None",
+    "ex_dividend_date": "None"
+  },
+  "technical_indicators": {
+    "beta": "1.404",
+    "analyst_target_price": "111.44",
+    "trailing_pe": "49.61",
+    "forward_pe": "45.45"
+  }
+}

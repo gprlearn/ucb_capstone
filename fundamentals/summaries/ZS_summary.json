@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "ZS",
+    "name": "Zscaler Inc",
+    "sector": "TECHNOLOGY",
+    "industry": "SERVICES-COMPUTER PROGRAMMING SERVICES",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "43636916000",
+    "shares_outstanding": "155696000",
+    "52_week_high": "318.46",
+    "52_week_low": "153.45",
+    "50_day_ma": "292.87",
+    "200_day_ma": "224.78"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "None",
+    "peg_ratio": "3.782",
+    "price_to_book": "24.18",
+    "price_to_sales": "17.13",
+    "ev_revenue": "16.44",
+    "ev_ebitda": "415.28"
+  },
+  "profitability_metrics": {
+    "profit_margin": "-0.0152",
+    "operating_margin_ttm": "-0.0375",
+    "return_on_assets_ttm": "-0.0161",
+    "return_on_equity_ttm": "-0.0268",
+    "gross_profit_ttm": "1972811000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "2546757000",
+    "revenue_per_share_ttm": "16.63",
+    "quarterly_revenue_growth": "0.226",
+    "quarterly_earnings_growth": "0",
+    "book_value": "11.59",
+    "diluted_eps_ttm": "-0.25"
+  },
+  "dividend_info": {
+    "dividend_per_share": "None",
+    "dividend_yield": "None",
+    "dividend_date": "None",
+    "ex_dividend_date": "None"
+  },
+  "technical_indicators": {
+    "beta": "1.109",
+    "analyst_target_price": "315.61",
+    "trailing_pe": "-",
+    "forward_pe": "75.76"
+  }
+}

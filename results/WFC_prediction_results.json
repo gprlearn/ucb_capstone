@@ -1,0 +1,71 @@
+{
+  "ticker": "WFC",
+  "analysis_date": "2025-08-01 21:03:29",
+  "current_market_price": 77.77999877929688,
+  "stock_type": "Growth",
+  "methods": {
+    "simple": {
+      "method": "Simple Correlation",
+      "stock_type": "Growth",
+      "current_price": 74.48969446818033,
+      "predicted_price": 68.88698102179626,
+      "price_change_pct": -7.521461171756284,
+      "prediction_method": "P/B Trend (Current: 1.84, Trend: -0.139)",
+      "correlation_strength": 0.9948395793564144,
+      "confidence": "High"
+    },
+    "ml_ensemble": {
+      "method": "ML Ensemble",
+      "current_price": 50.68468994390769,
+      "predicted_price": 57.623071838651384,
+      "price_change_pct": 13.689305197333434,
+      "individual_predictions": {
+        "RandomForest": 59.785560944148465,
+        "XGBoost": "55.460583"
+      },
+      "confidence": "High",
+      "feature_count": 5,
+      "data_points": 5
+    },
+    "dcf_fundamental": {
+      "method": "DCF Fundamental",
+      "current_price": 74.48969446818033,
+      "predicted_price": 33.94975064295097,
+      "price_change_pct": -54.42356035242803,
+      "individual_models": {
+        "RIM": 41.907518517589686,
+        "EPV": 32.3530548118675,
+        "DDM": 16.450374702979346
+      },
+      "model_weights": {
+        "RIM": 0.5,
+        "EPV": 0.3,
+        "DDM": 0.2
+      },
+      "confidence": "Low",
+      "fundamental_inputs": {
+        "current_roe": 0.03437078836809267,
+        "book_value_growth": -0.008389677772418835,
+        "earnings_growth": -0.1393406711681372,
+        "required_return": 0.10941999999999999
+      },
+      "data_points": 5
+    }
+  },
+  "consensus": {
+    "direction": "DOWN",
+    "consensus_prediction": "DOWN++",
+    "supporting_methods": [
+      "ML",
+      "DCF"
+    ],
+    "support_count": 2,
+    "confidence_level": "High"
+  },
+  "errors": {
+    "simple": null,
+    "ml_ensemble": null,
+    "dcf_fundamental": null,
+    "consensus": null
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "CCJ",
+    "name": "Cameco Corp",
+    "sector": "ENERGY & TRANSPORTATION",
+    "industry": "MISCELLANEOUS METAL ORES",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "31752774000",
+    "shares_outstanding": "435387000",
+    "52_week_high": "80.32",
+    "52_week_low": "35",
+    "50_day_ma": "69.65",
+    "200_day_ma": "54.52"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "82.88",
+    "peg_ratio": "3.33",
+    "price_to_book": "6.51",
+    "price_to_sales": "8.89",
+    "ev_revenue": "12.35",
+    "ev_ebitda": "39.34"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.149",
+    "operating_margin_ttm": "0.178",
+    "return_on_assets_ttm": "0.0395",
+    "return_on_equity_ttm": "0.0825",
+    "gross_profit_ttm": "1270419000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "3570217000",
+    "revenue_per_share_ttm": "8.2",
+    "quarterly_revenue_growth": "0.465",
+    "quarterly_earnings_growth": "8.21",
+    "book_value": "15.48",
+    "diluted_eps_ttm": "0.88"
+  },
+  "dividend_info": {
+    "dividend_per_share": "0.16",
+    "dividend_yield": "0.0021",
+    "dividend_date": "2024-12-13",
+    "ex_dividend_date": "2024-11-27"
+  },
+  "technical_indicators": {
+    "beta": "1.222",
+    "analyst_target_price": "74.64",
+    "trailing_pe": "82.88",
+    "forward_pe": "66.23"
+  }
+}

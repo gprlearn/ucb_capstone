@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "TSLA",
+    "name": "Tesla Inc",
+    "sector": "MANUFACTURING",
+    "industry": "MOTOR VEHICLES & PASSENGER CAR BODIES",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "976117957000",
+    "shares_outstanding": "3225450000",
+    "52_week_high": "488.54",
+    "52_week_low": "182",
+    "50_day_ma": "323.0",
+    "200_day_ma": "321.59"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "179.07",
+    "peg_ratio": "5.55",
+    "price_to_book": "12.63",
+    "price_to_sales": "10.53",
+    "ev_revenue": "10.27",
+    "ev_ebitda": "70.33"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.0634",
+    "operating_margin_ttm": "0.041",
+    "return_on_assets_ttm": "0.0291",
+    "return_on_equity_ttm": "0.0818",
+    "gross_profit_ttm": "16207000000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "92719997000",
+    "revenue_per_share_ttm": "28.86",
+    "quarterly_revenue_growth": "-0.118",
+    "quarterly_earnings_growth": "-0.175",
+    "book_value": "23.98",
+    "diluted_eps_ttm": "1.69"
+  },
+  "dividend_info": {
+    "dividend_per_share": "None",
+    "dividend_yield": "None",
+    "dividend_date": "None",
+    "ex_dividend_date": "None"
+  },
+  "technical_indicators": {
+    "beta": "2.398",
+    "analyst_target_price": "306.32",
+    "trailing_pe": "179.07",
+    "forward_pe": "158.73"
+  }
+}

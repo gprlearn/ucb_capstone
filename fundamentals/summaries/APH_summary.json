@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "APH",
+    "name": "Amphenol Corporation",
+    "sector": "MANUFACTURING",
+    "industry": "ELECTRONIC CONNECTORS",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "127354167000",
+    "shares_outstanding": "1220920000",
+    "52_week_high": "108.85",
+    "52_week_low": "54.27",
+    "50_day_ma": "96.57",
+    "200_day_ma": "77.04"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "41.56",
+    "peg_ratio": "1.932",
+    "price_to_book": "11.06",
+    "price_to_sales": "6.77",
+    "ev_revenue": "7.02",
+    "ev_ebitda": "26.09"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.169",
+    "operating_margin_ttm": "0.256",
+    "return_on_assets_ttm": "0.125",
+    "return_on_equity_ttm": "0.31",
+    "gross_profit_ttm": "6630900000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "18818001000",
+    "revenue_per_share_ttm": "15.56",
+    "quarterly_revenue_growth": "0.565",
+    "quarterly_earnings_growth": "1.098",
+    "book_value": "9.44",
+    "diluted_eps_ttm": "2.51"
+  },
+  "dividend_info": {
+    "dividend_per_share": "0.66",
+    "dividend_yield": "0.0062",
+    "dividend_date": "2025-07-09",
+    "ex_dividend_date": "2025-09-16"
+  },
+  "technical_indicators": {
+    "beta": "1.139",
+    "analyst_target_price": "113.56",
+    "trailing_pe": "41.56",
+    "forward_pe": "35.34"
+  }
+}

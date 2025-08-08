@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "NET",
+    "name": "Cloudflare Inc",
+    "sector": "TECHNOLOGY",
+    "industry": "SERVICES-PREPACKAGED SOFTWARE",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "69734728000",
+    "shares_outstanding": "312872000",
+    "52_week_high": "211.27",
+    "52_week_low": "69.26",
+    "50_day_ma": "183.31",
+    "200_day_ma": "134.41"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "None",
+    "peg_ratio": "2.355",
+    "price_to_book": "56.25",
+    "price_to_sales": "37.06",
+    "ev_revenue": "36.8",
+    "ev_ebitda": "1287.53"
+  },
+  "profitability_metrics": {
+    "profit_margin": "-0.0622",
+    "operating_margin_ttm": "-0.131",
+    "return_on_assets_ttm": "-0.0251",
+    "return_on_equity_ttm": "-0.11",
+    "gross_profit_ttm": "1432525000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "1881431000",
+    "revenue_per_share_ttm": "5.46",
+    "quarterly_revenue_growth": "0.278",
+    "quarterly_earnings_growth": "0",
+    "book_value": "3.558",
+    "diluted_eps_ttm": "-0.34"
+  },
+  "dividend_info": {
+    "dividend_per_share": "None",
+    "dividend_yield": "None",
+    "dividend_date": "None",
+    "ex_dividend_date": "None"
+  },
+  "technical_indicators": {
+    "beta": "1.853",
+    "analyst_target_price": "204.49",
+    "trailing_pe": "-",
+    "forward_pe": "250"
+  }
+}

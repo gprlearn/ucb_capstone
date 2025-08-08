@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "TSM",
+    "name": "Taiwan Semiconductor Manufacturing",
+    "sector": "MANUFACTURING",
+    "industry": "SEMICONDUCTORS & RELATED DEVICES",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "1219921445000",
+    "shares_outstanding": "5186520000",
+    "52_week_high": "248.28",
+    "52_week_low": "131.72",
+    "50_day_ma": "220.97",
+    "200_day_ma": "196.63"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "28.17",
+    "peg_ratio": "1.433",
+    "price_to_book": "7.89",
+    "price_to_sales": "0.359",
+    "ev_revenue": "9.02",
+    "ev_ebitda": "12.54"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.429",
+    "operating_margin_ttm": "0.496",
+    "return_on_assets_ttm": "0.16",
+    "return_on_equity_ttm": "0.346",
+    "gross_profit_ttm": "1992487600000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "3401199649000",
+    "revenue_per_share_ttm": "81.99",
+    "quarterly_revenue_growth": "0.386",
+    "quarterly_earnings_growth": "0.607",
+    "book_value": "176.68",
+    "diluted_eps_ttm": "8.35"
+  },
+  "dividend_info": {
+    "dividend_per_share": "9",
+    "dividend_yield": "0.014",
+    "dividend_date": "2025-10-09",
+    "ex_dividend_date": "2025-09-16"
+  },
+  "technical_indicators": {
+    "beta": "1.341",
+    "analyst_target_price": "269.76",
+    "trailing_pe": "28.17",
+    "forward_pe": "23.87"
+  }
+}

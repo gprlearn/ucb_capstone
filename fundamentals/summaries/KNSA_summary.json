@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "KNSA",
+    "name": "Kiniksa Pharmaceuticals Ltd",
+    "sector": "LIFE SCIENCES",
+    "industry": "PHARMACEUTICAL PREPARATIONS",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "2369964000",
+    "shares_outstanding": "43472900",
+    "52_week_high": "32.15",
+    "52_week_low": "17.82",
+    "50_day_ma": "28.3",
+    "200_day_ma": "23.51"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "639.6",
+    "peg_ratio": "None",
+    "price_to_book": "4.788",
+    "price_to_sales": "4.477",
+    "ev_revenue": "3.914",
+    "ev_ebitda": "346.65"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.009",
+    "operating_margin_ttm": "0.129",
+    "return_on_assets_ttm": "0.0047",
+    "return_on_equity_ttm": "0.0103",
+    "gross_profit_ttm": "281152000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "529332000",
+    "revenue_per_share_ttm": "7.3",
+    "quarterly_revenue_growth": "0.443",
+    "quarterly_earnings_growth": "5.5",
+    "book_value": "6.69",
+    "diluted_eps_ttm": "0.05"
+  },
+  "dividend_info": {
+    "dividend_per_share": "None",
+    "dividend_yield": "None",
+    "dividend_date": "None",
+    "ex_dividend_date": "None"
+  },
+  "technical_indicators": {
+    "beta": "0.046",
+    "analyst_target_price": "45.17",
+    "trailing_pe": "639.6",
+    "forward_pe": "-"
+  }
+}

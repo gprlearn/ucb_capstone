@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "FIX",
+    "name": "Comfort Systems USA Inc",
+    "sector": "REAL ESTATE & CONSTRUCTION",
+    "industry": "ELECTRICAL WORK",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "24531227000",
+    "shares_outstanding": "35281500",
+    "52_week_high": "718.4",
+    "52_week_low": "271.85",
+    "50_day_ma": "534.97",
+    "200_day_ma": "445.2"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "35.71",
+    "peg_ratio": "2.06",
+    "price_to_book": "12.44",
+    "price_to_sales": "3.192",
+    "ev_revenue": "3.186",
+    "ev_ebitda": "23.92"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.0901",
+    "operating_margin_ttm": "0.138",
+    "return_on_assets_ttm": "0.126",
+    "return_on_equity_ttm": "0.401",
+    "gross_profit_ttm": "1728765000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "7684775000",
+    "revenue_per_share_ttm": "216.32",
+    "quarterly_revenue_growth": "0.201",
+    "quarterly_earnings_growth": "0.746",
+    "book_value": "56.0",
+    "diluted_eps_ttm": "19.47"
+  },
+  "dividend_info": {
+    "dividend_per_share": "1.5",
+    "dividend_yield": "0.0021",
+    "dividend_date": "2025-08-25",
+    "ex_dividend_date": "2025-08-14"
+  },
+  "technical_indicators": {
+    "beta": "1.508",
+    "analyst_target_price": "767.2",
+    "trailing_pe": "35.71",
+    "forward_pe": "35.84"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "ticker": "GOOGL",
+  "analysis_date": "2025-08-01 21:42:14",
+  "current_market_price": 189.1300048828125,
+  "stock_type": "Growth",
+  "methods": {
+    "simple": {
+      "method": "Simple Correlation",
+      "stock_type": "Growth",
+      "current_price": 163.19310834330898,
+      "predicted_price": 171.75730004028114,
+      "price_change_pct": 5.247888090320388,
+      "prediction_method": "P/B Trend (Current: 6.07, Trend: +0.319)",
+      "correlation_strength": 0.3881227808204541,
+      "confidence": "Medium"
+    },
+    "ml_ensemble": {
+      "method": "ML Ensemble",
+      "current_price": 167.60993206690227,
+      "predicted_price": 168.19120863096174,
+      "price_change_pct": 0.3468031738282942,
+      "individual_predictions": {
+        "RandomForest": 169.3704848888766,
+        "XGBoost": "167.01193"
+      },
+      "confidence": "High",
+      "feature_count": 5,
+      "data_points": 5
+    },
+    "dcf_fundamental": {
+      "method": "DCF Fundamental",
+      "current_price": 163.19310834330898,
+      "predicted_price": 22.605189274318874,
+      "price_change_pct": -86.14819614394233,
+      "individual_models": {
+        "RIM": 28.958343512896217,
+        "EPV": 21.503474810316973,
+        "DDM": 8.374875373878364
+      },
+      "model_weights": {
+        "RIM": 0.5,
+        "EPV": 0.3,
+        "DDM": 0.2
+      },
+      "confidence": "Low",
+      "fundamental_inputs": {
+        "current_roe": 0.08593959889279679,
+        "book_value_growth": -0.1916301780912073,
+        "earnings_growth": -0.1408692827994702,
+        "required_return": 0.1003
+      },
+      "data_points": 5
+    }
+  },
+  "consensus": {
+    "direction": "UP",
+    "consensus_prediction": "UP+",
+    "supporting_methods": [
+      "ML"
+    ],
+    "support_count": 1,
+    "confidence_level": "Medium"
+  },
+  "errors": {
+    "simple": null,
+    "ml_ensemble": null,
+    "dcf_fundamental": null,
+    "consensus": null
+  }
+}

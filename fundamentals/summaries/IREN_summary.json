@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "IREN",
+    "name": "IREN Ltd",
+    "sector": "TECHNOLOGY",
+    "industry": "SERVICES-COMPUTER PROCESSING & DATA PREPARATION",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "3724752000",
+    "shares_outstanding": "241867000",
+    "52_week_high": "21.54",
+    "52_week_low": "5.12",
+    "50_day_ma": "13.33",
+    "200_day_ma": "10.45"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "None",
+    "peg_ratio": "4.055",
+    "price_to_book": "2.612",
+    "price_to_sales": "9.86",
+    "ev_revenue": "10.35",
+    "ev_ebitda": "29.06"
+  },
+  "profitability_metrics": {
+    "profit_margin": "-0.0944",
+    "operating_margin_ttm": "0.188",
+    "return_on_assets_ttm": "-0.0068",
+    "return_on_equity_ttm": "-0.0339",
+    "gross_profit_ttm": "346292000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "377821000",
+    "revenue_per_share_ttm": "1.957",
+    "quarterly_revenue_growth": "1.725",
+    "quarterly_earnings_growth": "0.429",
+    "book_value": "6.38",
+    "diluted_eps_ttm": "-0.31"
+  },
+  "dividend_info": {
+    "dividend_per_share": "None",
+    "dividend_yield": "None",
+    "dividend_date": "None",
+    "ex_dividend_date": "None"
+  },
+  "technical_indicators": {
+    "beta": "3.988",
+    "analyst_target_price": "22",
+    "trailing_pe": "-",
+    "forward_pe": "17.92"
+  }
+}

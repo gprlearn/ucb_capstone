@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "ONC",
+    "name": "BeiGene, Ltd.",
+    "sector": "LIFE SCIENCES",
+    "industry": "PHARMACEUTICAL PREPARATIONS",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "32928178000",
+    "shares_outstanding": "99370000",
+    "52_week_high": "308.87",
+    "52_week_low": "158.84",
+    "50_day_ma": "263.52",
+    "200_day_ma": "232.53"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "None",
+    "peg_ratio": "None",
+    "price_to_book": "9.25",
+    "price_to_sales": "7.89",
+    "ev_revenue": "7.52",
+    "ev_ebitda": "-"
+  },
+  "profitability_metrics": {
+    "profit_margin": "-0.094",
+    "operating_margin_ttm": "0.0099",
+    "return_on_assets_ttm": "-0.0322",
+    "return_on_equity_ttm": "-0.114",
+    "gross_profit_ttm": "3541712000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "4175868000",
+    "revenue_per_share_ttm": "39.41",
+    "quarterly_revenue_growth": "0.486",
+    "quarterly_earnings_growth": "0",
+    "book_value": "32.42",
+    "diluted_eps_ttm": "-3.65"
+  },
+  "dividend_info": {
+    "dividend_per_share": "None",
+    "dividend_yield": "None",
+    "dividend_date": "None",
+    "ex_dividend_date": "None"
+  },
+  "technical_indicators": {
+    "beta": "0.284",
+    "analyst_target_price": "336.42",
+    "trailing_pe": "-",
+    "forward_pe": "166.67"
+  }
+}

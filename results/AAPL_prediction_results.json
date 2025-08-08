@@ -1,0 +1,69 @@
+{
+  "ticker": "AAPL",
+  "analysis_date": "2025-08-01 21:42:13",
+  "current_market_price": 202.3800048828125,
+  "stock_type": "Growth",
+  "methods": {
+    "simple": {
+      "method": "Simple Correlation",
+      "stock_type": "Growth",
+      "current_price": 231.72703475952147,
+      "predicted_price": 212.99588415604106,
+      "price_change_pct": -8.08328239427004,
+      "prediction_method": "P/B Trend (Current: 53.14, Trend: -4.296)",
+      "correlation_strength": 0.8866938445651709,
+      "confidence": "High"
+    },
+    "ml_ensemble": {
+      "method": "ML Ensemble",
+      "current_price": 180.6334976446433,
+      "predicted_price": 195.05083783011963,
+      "price_change_pct": 7.981542943844927,
+      "individual_predictions": {
+        "RandomForest": 204.58118310652836,
+        "XGBoost": "185.5205"
+      },
+      "confidence": "Medium",
+      "feature_count": 5,
+      "data_points": 5
+    },
+    "dcf_fundamental": {
+      "method": "DCF Fundamental",
+      "current_price": 231.72703475952147,
+      "predicted_price": 11.363961040198877,
+      "price_change_pct": -95.09597097637226,
+      "individual_models": {
+        "RIM": 7.5922020970052975,
+        "EPV": 17.650225945521516
+      },
+      "model_weights": {
+        "RIM": 0.625,
+        "EPV": 0.37499999999999994
+      },
+      "confidence": "Low",
+      "fundamental_inputs": {
+        "current_roe": 0.37840865683846386,
+        "book_value_growth": 0.13607608922677383,
+        "earnings_growth": 0.39486823314142916,
+        "required_return": 0.11194000000000001
+      },
+      "data_points": 5
+    }
+  },
+  "consensus": {
+    "direction": "DOWN",
+    "consensus_prediction": "DOWN++",
+    "supporting_methods": [
+      "ML",
+      "DCF"
+    ],
+    "support_count": 2,
+    "confidence_level": "High"
+  },
+  "errors": {
+    "simple": null,
+    "ml_ensemble": null,
+    "dcf_fundamental": null,
+    "consensus": null
+  }
+}

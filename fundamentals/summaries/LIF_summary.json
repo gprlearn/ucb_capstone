@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "LIF",
+    "name": "Life360, Inc. Common Stock",
+    "sector": "TECHNOLOGY",
+    "industry": "SERVICES-COMPUTER PROCESSING & DATA PREPARATION",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "5693736000",
+    "shares_outstanding": "76529000",
+    "52_week_high": "78.32",
+    "52_week_low": "28.94",
+    "50_day_ma": "66.27",
+    "200_day_ma": "49.24"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "572.31",
+    "peg_ratio": "None",
+    "price_to_book": "15.14",
+    "price_to_sales": "14.35",
+    "ev_revenue": "13.93",
+    "ev_ebitda": "490.62"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.0242",
+    "operating_margin_ttm": "0.0211",
+    "return_on_assets_ttm": "0.0012",
+    "return_on_equity_ttm": "0.0312",
+    "gross_profit_ttm": "302693000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "396881000",
+    "revenue_per_share_ttm": "1.79",
+    "quarterly_revenue_growth": "0.325",
+    "quarterly_earnings_growth": "0",
+    "book_value": "1.641",
+    "diluted_eps_ttm": "0.13"
+  },
+  "dividend_info": {
+    "dividend_per_share": "None",
+    "dividend_yield": "None",
+    "dividend_date": "None",
+    "ex_dividend_date": "None"
+  },
+  "technical_indicators": {
+    "beta": "1.086",
+    "analyst_target_price": "71.12",
+    "trailing_pe": "572.31",
+    "forward_pe": "142.86"
+  }
+}

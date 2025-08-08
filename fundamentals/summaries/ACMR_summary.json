@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "ACMR",
+    "name": "Acm Research Inc",
+    "sector": "TECHNOLOGY",
+    "industry": "SPECIAL INDUSTRY MACHINERY, NEC",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "1882725000",
+    "shares_outstanding": "58843000",
+    "52_week_high": "32.54",
+    "52_week_low": "13.87",
+    "50_day_ma": "26.76",
+    "200_day_ma": "22.06"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "18.78",
+    "peg_ratio": "None",
+    "price_to_book": "1.984",
+    "price_to_sales": "2.347",
+    "ev_revenue": "2.028",
+    "ev_ebitda": "8.92"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.133",
+    "operating_margin_ttm": "0.15",
+    "return_on_assets_ttm": "0.0543",
+    "return_on_equity_ttm": "0.127",
+    "gross_profit_ttm": "394983000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "802274000",
+    "revenue_per_share_ttm": "12.8",
+    "quarterly_revenue_growth": "0.132",
+    "quarterly_earnings_growth": "0.163",
+    "book_value": "14.86",
+    "diluted_eps_ttm": "1.57"
+  },
+  "dividend_info": {
+    "dividend_per_share": "None",
+    "dividend_yield": "None",
+    "dividend_date": "None",
+    "ex_dividend_date": "None"
+  },
+  "technical_indicators": {
+    "beta": "1.494",
+    "analyst_target_price": "35.06",
+    "trailing_pe": "18.78",
+    "forward_pe": "14.75"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "RKLB",
+    "name": "Rocket Lab USA Inc.",
+    "sector": "REAL ESTATE & CONSTRUCTION",
+    "industry": "BLANK CHECKS",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "21479182000",
+    "shares_outstanding": "479339000",
+    "52_week_high": "53.44",
+    "52_week_low": "4.2",
+    "50_day_ma": "35.6",
+    "200_day_ma": "24.98"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "None",
+    "peg_ratio": "None",
+    "price_to_book": "49.79",
+    "price_to_sales": "46.09",
+    "ev_revenue": "46.21",
+    "ev_ebitda": "-16.44"
+  },
+  "profitability_metrics": {
+    "profit_margin": "-0.443",
+    "operating_margin_ttm": "-0.483",
+    "return_on_assets_ttm": "-0.106",
+    "return_on_equity_ttm": "-0.454",
+    "gross_profit_ttm": "127222000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "466016000",
+    "revenue_per_share_ttm": "0.932",
+    "quarterly_revenue_growth": "0.321",
+    "quarterly_earnings_growth": "0",
+    "book_value": "0.936",
+    "diluted_eps_ttm": "-0.41"
+  },
+  "dividend_info": {
+    "dividend_per_share": "None",
+    "dividend_yield": "None",
+    "dividend_date": "None",
+    "ex_dividend_date": "None"
+  },
+  "technical_indicators": {
+    "beta": "2.159",
+    "analyst_target_price": "37.27",
+    "trailing_pe": "-",
+    "forward_pe": "-"
+  }
+}

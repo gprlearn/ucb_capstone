@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "HOOD",
+    "name": "Robinhood Markets Inc",
+    "sector": "FINANCE",
+    "industry": "SECURITY BROKERS, DEALERS & FLOTATION COMPANIES",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "88778637000",
+    "shares_outstanding": "773964000",
+    "52_week_high": "113.44",
+    "52_week_low": "13.98",
+    "50_day_ma": "86.07",
+    "200_day_ma": "53.43"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "50.71",
+    "peg_ratio": "None",
+    "price_to_book": "11.0",
+    "price_to_sales": "24.89",
+    "ev_revenue": "24.64",
+    "ev_ebitda": "54.9"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.501",
+    "operating_margin_ttm": "0.444",
+    "return_on_assets_ttm": "0.0466",
+    "return_on_equity_ttm": "0.235",
+    "gross_profit_ttm": "3264000000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "3567000000",
+    "revenue_per_share_ttm": "4.036",
+    "quarterly_revenue_growth": "0.45",
+    "quarterly_earnings_growth": "1",
+    "book_value": "9.09",
+    "diluted_eps_ttm": "1.97"
+  },
+  "dividend_info": {
+    "dividend_per_share": "None",
+    "dividend_yield": "None",
+    "dividend_date": "None",
+    "ex_dividend_date": "None"
+  },
+  "technical_indicators": {
+    "beta": "2.366",
+    "analyst_target_price": "106.9",
+    "trailing_pe": "50.71",
+    "forward_pe": "70.92"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "DASH",
+    "name": "DoorDash, Inc. Class A Common Stock",
+    "sector": "TRADE & SERVICES",
+    "industry": "SERVICES-BUSINESS SERVICES, NEC",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "105236824000",
+    "shares_outstanding": "398681000",
+    "52_week_high": "252.87",
+    "52_week_low": "106.21",
+    "50_day_ma": "229.62",
+    "200_day_ma": "192.53"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "314.37",
+    "peg_ratio": "1.263",
+    "price_to_book": "12.55",
+    "price_to_sales": "9.36",
+    "ev_revenue": "8.89",
+    "ev_ebitda": "133.31"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.0302",
+    "operating_margin_ttm": "0.0567",
+    "return_on_assets_ttm": "0.0142",
+    "return_on_equity_ttm": "0.0434",
+    "gross_profit_ttm": "5648000000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "11241000000",
+    "revenue_per_share_ttm": "27.05",
+    "quarterly_revenue_growth": "0.207",
+    "quarterly_earnings_growth": "0",
+    "book_value": "19.8",
+    "diluted_eps_ttm": "0.79"
+  },
+  "dividend_info": {
+    "dividend_per_share": "None",
+    "dividend_yield": "None",
+    "dividend_date": "None",
+    "ex_dividend_date": "None"
+  },
+  "technical_indicators": {
+    "beta": "1.703",
+    "analyst_target_price": "243.39",
+    "trailing_pe": "314.37",
+    "forward_pe": "109.89"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "ticker": "JPM",
+  "analysis_date": "2025-08-01 21:03:28",
+  "current_market_price": 289.3699951171875,
+  "stock_type": "Growth",
+  "methods": {
+    "simple": {
+      "method": "Simple Correlation",
+      "stock_type": "Growth",
+      "current_price": 252.012890625,
+      "predicted_price": 236.69067325352182,
+      "price_change_pct": -6.07993398015419,
+      "prediction_method": "P/B Trend (Current: 2.66, Trend: -0.162)",
+      "correlation_strength": 0.9959005540685905,
+      "confidence": "High"
+    },
+    "ml_ensemble": {
+      "method": "ML Ensemble",
+      "current_price": 174.45753604075946,
+      "predicted_price": 197.73019609215152,
+      "price_change_pct": 13.340014183138946,
+      "individual_predictions": {
+        "RandomForest": 205.3509866667249,
+        "XGBoost": "190.1094"
+      },
+      "confidence": "High",
+      "feature_count": 5,
+      "data_points": 5
+    },
+    "dcf_fundamental": {
+      "method": "DCF Fundamental",
+      "current_price": 252.012890625,
+      "predicted_price": 82.59812868654258,
+      "price_change_pct": -67.22464137382157,
+      "individual_models": {
+        "RIM": 98.4894023871583,
+        "EPV": 75.83794270972663,
+        "DDM": 53.010223400227176
+      },
+      "model_weights": {
+        "RIM": 0.5,
+        "EPV": 0.3,
+        "DDM": 0.2
+      },
+      "confidence": "Medium",
+      "fundamental_inputs": {
+        "current_roe": 0.05348246346191819,
+        "book_value_growth": -0.09472112550897438,
+        "earnings_growth": -0.01681028077582125,
+        "required_return": 0.10564000000000001
+      },
+      "data_points": 5
+    }
+  },
+  "consensus": {
+    "direction": "DOWN",
+    "consensus_prediction": "DOWN++",
+    "supporting_methods": [
+      "ML",
+      "DCF"
+    ],
+    "support_count": 2,
+    "confidence_level": "High"
+  },
+  "errors": {
+    "simple": null,
+    "ml_ensemble": null,
+    "dcf_fundamental": null,
+    "consensus": null
+  }
+}

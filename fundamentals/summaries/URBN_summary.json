@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "URBN",
+    "name": "Urban Outfitters Inc",
+    "sector": "TRADE & SERVICES",
+    "industry": "RETAIL-FAMILY CLOTHING STORES",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "6831632000",
+    "shares_outstanding": "89642000",
+    "52_week_high": "78.22",
+    "52_week_low": "33.86",
+    "50_day_ma": "71.68",
+    "200_day_ma": "55.53"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "15.98",
+    "peg_ratio": "1.813",
+    "price_to_book": "2.809",
+    "price_to_sales": "1.203",
+    "ev_revenue": "1.32",
+    "ev_ebitda": "11.07"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.0791",
+    "operating_margin_ttm": "0.0928",
+    "return_on_assets_ttm": "0.0756",
+    "return_on_equity_ttm": "0.196",
+    "gross_profit_ttm": "2002549000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "5679435000",
+    "revenue_per_share_ttm": "61.51",
+    "quarterly_revenue_growth": "0.107",
+    "quarterly_earnings_growth": "0.785",
+    "book_value": "27.14",
+    "diluted_eps_ttm": "4.77"
+  },
+  "dividend_info": {
+    "dividend_per_share": "None",
+    "dividend_yield": "None",
+    "dividend_date": "None",
+    "ex_dividend_date": "None"
+  },
+  "technical_indicators": {
+    "beta": "1.442",
+    "analyst_target_price": "76.5",
+    "trailing_pe": "15.98",
+    "forward_pe": "15.6"
+  }
+}

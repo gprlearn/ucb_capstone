@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "SYM",
+    "name": "Symbotic Inc",
+    "sector": "REAL ESTATE & CONSTRUCTION",
+    "industry": "BLANK CHECKS",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "29981719000",
+    "shares_outstanding": "109080000",
+    "52_week_high": "55.75",
+    "52_week_low": "16.32",
+    "50_day_ma": "39.67",
+    "200_day_ma": "29.48"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "None",
+    "peg_ratio": "8.47",
+    "price_to_book": "26.98",
+    "price_to_sales": "14.48",
+    "ev_revenue": "2.215",
+    "ev_ebitda": "-23.85"
+  },
+  "profitability_metrics": {
+    "profit_margin": "-0.0045",
+    "operating_margin_ttm": "-0.0588",
+    "return_on_assets_ttm": "-0.03",
+    "return_on_equity_ttm": "-0.124",
+    "gross_profit_ttm": "338251000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "2071248000",
+    "revenue_per_share_ttm": "19.71",
+    "quarterly_revenue_growth": "0.397",
+    "quarterly_earnings_growth": "0",
+    "book_value": "1.895",
+    "diluted_eps_ttm": "-0.08"
+  },
+  "dividend_info": {
+    "dividend_per_share": "None",
+    "dividend_yield": "None",
+    "dividend_date": "None",
+    "ex_dividend_date": "None"
+  },
+  "technical_indicators": {
+    "beta": "2.037",
+    "analyst_target_price": "39.07",
+    "trailing_pe": "-",
+    "forward_pe": "256.41"
+  }
+}

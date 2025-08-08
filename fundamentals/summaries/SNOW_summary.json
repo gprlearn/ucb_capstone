@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "SNOW",
+    "name": "Snowflake Inc.",
+    "sector": "TECHNOLOGY",
+    "industry": "SERVICES-PREPACKAGED SOFTWARE",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "68406563000",
+    "shares_outstanding": "333658000",
+    "52_week_high": "229.27",
+    "52_week_low": "107.13",
+    "50_day_ma": "212.93",
+    "200_day_ma": "171.71"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "None",
+    "peg_ratio": "12.2",
+    "price_to_book": "28.41",
+    "price_to_sales": "17.82",
+    "ev_revenue": "17.5",
+    "ev_ebitda": "-76.57"
+  },
+  "profitability_metrics": {
+    "profit_margin": "-0.364",
+    "operating_margin_ttm": "-0.327",
+    "return_on_assets_ttm": "-0.116",
+    "return_on_equity_ttm": "-0.401",
+    "gross_profit_ttm": "2556519000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "3839761000",
+    "revenue_per_share_ttm": "11.55",
+    "quarterly_revenue_growth": "0.257",
+    "quarterly_earnings_growth": "0",
+    "book_value": "7.22",
+    "diluted_eps_ttm": "-4.2"
+  },
+  "dividend_info": {
+    "dividend_per_share": "None",
+    "dividend_yield": "None",
+    "dividend_date": "None",
+    "ex_dividend_date": "None"
+  },
+  "technical_indicators": {
+    "beta": "1.222",
+    "analyst_target_price": "233.69",
+    "trailing_pe": "-",
+    "forward_pe": "181.82"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "ticker": "BAC",
+  "analysis_date": "2025-08-01 21:03:29",
+  "current_market_price": 45.65999984741211,
+  "stock_type": "Growth",
+  "methods": {
+    "simple": {
+      "method": "Simple Correlation",
+      "stock_type": "Growth",
+      "current_price": 41.79946247223885,
+      "predicted_price": 40.78007183313236,
+      "price_change_pct": -2.4387649477155815,
+      "prediction_method": "P/B Trend (Current: 1.50, Trend: -0.036)",
+      "correlation_strength": 0.9853823883580798,
+      "confidence": "High"
+    },
+    "ml_ensemble": {
+      "method": "ML Ensemble",
+      "current_price": 37.236414773123606,
+      "predicted_price": 40.14525399250368,
+      "price_change_pct": 7.811813347507374,
+      "individual_predictions": {
+        "RandomForest": 41.10065431679448,
+        "XGBoost": "39.189854"
+      },
+      "confidence": "High",
+      "feature_count": 5,
+      "data_points": 5
+    },
+    "dcf_fundamental": {
+      "method": "DCF Fundamental",
+      "current_price": 41.79946247223885,
+      "predicted_price": 23.063339247005022,
+      "price_change_pct": -44.823837717237254,
+      "individual_models": {
+        "RIM": 28.92946874453417,
+        "EPV": 22.36634452343787,
+        "DDM": 9.443507588532883
+      },
+      "model_weights": {
+        "RIM": 0.5,
+        "EPV": 0.3,
+        "DDM": 0.2
+      },
+      "confidence": "Low",
+      "fundamental_inputs": {
+        "current_roe": 0.031833543440855504,
+        "book_value_growth": -0.04286018503484812,
+        "earnings_growth": -0.06515669775923738,
+        "required_return": 0.11860000000000001
+      },
+      "data_points": 5
+    }
+  },
+  "consensus": {
+    "direction": "DOWN",
+    "consensus_prediction": "DOWN++",
+    "supporting_methods": [
+      "ML",
+      "DCF"
+    ],
+    "support_count": 2,
+    "confidence_level": "High"
+  },
+  "errors": {
+    "simple": null,
+    "ml_ensemble": null,
+    "dcf_fundamental": null,
+    "consensus": null
+  }
+}

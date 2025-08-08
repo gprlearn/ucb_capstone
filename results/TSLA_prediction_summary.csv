@@ -1,0 +1,2 @@
+Ticker,Analysis_Date,Current_Price,Stock_Type,Simple_Prediction,Simple_Change_%,ML_Prediction,ML_Change_%,DCF_Prediction,DCF_Change_%,Consensus_Direction,Supporting_Methods,Confidence_Level
+TSLA,2025-08-01 21:42:15,302.6300048828125,Growth,271.3721670912094,-9.64268422954911,245.37312740636298,40.398248438867924,22.505808734135684,-92.50636316812779,DOWN++,"ML, DCF",High

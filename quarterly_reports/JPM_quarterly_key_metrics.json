@@ -1,0 +1,722 @@
+{
+  "2025-06-30": {
+    "income_statement": {
+      "total_revenue": 69944000000.0,
+      "net_interest_income": null,
+      "net_income": 14987000000.0,
+      "gross_profit": 42063000000.0,
+      "operating_income": 18284000000.0,
+      "ebitda": 20314000000.0,
+      "research_development": null,
+      "selling_general_admin": 14974000000.0,
+      "interest_expense": 25032000000.0,
+      "income_before_tax": 18284000000.0
+    },
+    "balance_sheet": {
+      "total_assets": 4552482000000.0,
+      "total_current_assets": 1015379000000.0,
+      "total_debt": 485095000000.0,
+      "short_term_debt": null,
+      "long_term_debt": 419802000000.0,
+      "total_current_liabilities": 3775756000000.0,
+      "stockholders_equity": 356924000000.0,
+      "retained_earnings": 397424000000.0,
+      "cash_and_equivalents": 420327000000.0,
+      "inventory": null,
+      "accounts_receivable": 124463000000.0
+    },
+    "cash_flow": {
+      "operating_cash_flow": null,
+      "capital_expenditure": null,
+      "free_cash_flow": null,
+      "financing_cash_flow": null,
+      "investing_cash_flow": null,
+      "dividends_paid": null,
+      "change_in_cash": null
+    }
+  },
+  "2025-03-31": {
+    "income_statement": {
+      "total_revenue": 68907000000.0,
+      "net_interest_income": 46853000000.0,
+      "net_income": 14643000000.0,
+      "gross_profit": 42005000000.0,
+      "operating_income": 18408000000.0,
+      "ebitda": 20438000000.0,
+      "research_development": 2578000000.0,
+      "selling_general_admin": 14427000000.0,
+      "interest_expense": 23580000000.0,
+      "income_before_tax": 18408000000.0
+    },
+    "balance_sheet": {
+      "total_assets": 4357856000000.0,
+      "total_current_assets": 931728000000.0,
+      "total_debt": 1005250000000.0,
+      "short_term_debt": null,
+      "long_term_debt": 407224000000.0,
+      "total_current_liabilities": 3281006000000.0,
+      "stockholders_equity": 351420000000.0,
+      "retained_earnings": 386616000000.0,
+      "cash_and_equivalents": 425903000000.0,
+      "inventory": null,
+      "accounts_receivable": 117845000000.0
+    },
+    "cash_flow": {
+      "operating_cash_flow": -251839000000.0,
+      "capital_expenditure": 0.0,
+      "free_cash_flow": -251839000000.0,
+      "financing_cash_flow": 318059000000.0,
+      "investing_cash_flow": -118076000000.0,
+      "dividends_paid": 3823000000.0,
+      "change_in_cash": null
+    }
+  },
+  "2024-12-31": {
+    "income_statement": {
+      "total_revenue": 67007000000.0,
+      "net_interest_income": 47566000000.0,
+      "net_income": 14005000000.0,
+      "gross_profit": 40137000000.0,
+      "operating_income": 17375000000.0,
+      "ebitda": 19340000000.0,
+      "research_development": null,
+      "selling_general_admin": 12469000000.0,
+      "interest_expense": 24216000000.0,
+      "income_before_tax": 17375000000.0
+    },
+    "balance_sheet": {
+      "total_assets": 4002814000000.0,
+      "total_current_assets": 967230000000.0,
+      "total_debt": 751146000000.0,
+      "short_term_debt": null,
+      "long_term_debt": 389836000000.0,
+      "total_current_liabilities": 3226497000000.0,
+      "stockholders_equity": 344758000000.0,
+      "retained_earnings": 376166000000.0,
+      "cash_and_equivalents": 469317000000.0,
+      "inventory": null,
+      "accounts_receivable": 101223000000.0
+    },
+    "cash_flow": {
+      "operating_cash_flow": 147758000000.0,
+      "capital_expenditure": 0.0,
+      "free_cash_flow": 147758000000.0,
+      "financing_cash_flow": -115705000000.0,
+      "investing_cash_flow": 17620000000.0,
+      "dividends_paid": 3858000000.0,
+      "change_in_cash": null
+    }
+  },
+  "2024-09-30": {
+    "income_statement": {
+      "total_revenue": 69667000000.0,
+      "net_interest_income": 50416000000.0,
+      "net_income": 12898000000.0,
+      "gross_profit": 39543000000.0,
+      "operating_income": 16978000000.0,
+      "ebitda": 18945000000.0,
+      "research_development": null,
+      "selling_general_admin": 12817000000.0,
+      "interest_expense": 27011000000.0,
+      "income_before_tax": 16978000000.0
+    },
+    "balance_sheet": {
+      "total_assets": 4210048000000.0,
+      "total_current_assets": 880289000000.0,
+      "total_debt": 850132000000.0,
+      "short_term_debt": null,
+      "long_term_debt": 410157000000.0,
+      "total_current_liabilities": 3114005000000.0,
+      "stockholders_equity": 345836000000.0,
+      "retained_earnings": 365966000000.0,
+      "cash_and_equivalents": 434260000000.0,
+      "inventory": -1987569000000.0,
+      "accounts_receivable": 122565000000.0
+    },
+    "cash_flow": {
+      "operating_cash_flow": -74081000000.0,
+      "capital_expenditure": 0.0,
+      "free_cash_flow": -74081000000.0,
+      "financing_cash_flow": 10746000000.0,
+      "investing_cash_flow": -43405000000.0,
+      "dividends_paid": 3655000000.0,
+      "change_in_cash": null
+    }
+  },
+  "2024-06-30": {
+    "income_statement": {
+      "total_revenue": 67835000000.0,
+      "net_interest_income": 48513000000.0,
+      "net_income": 18149000000.0,
+      "gross_profit": 39039000000.0,
+      "operating_income": 23435000000.0,
+      "ebitda": 25437000000.0,
+      "research_development": null,
+      "selling_general_admin": 12953000000.0,
+      "interest_expense": 25767000000.0,
+      "income_before_tax": 23435000000.0
+    },
+    "balance_sheet": {
+      "total_assets": 4143003000000.0,
+      "total_current_assets": 923617000000.0,
+      "total_debt": 842168000000.0,
+      "short_term_debt": null,
+      "long_term_debt": 394028000000.0,
+      "total_current_liabilities": 3085506000000.0,
+      "stockholders_equity": 340552000000.0,
+      "retained_earnings": 356924000000.0,
+      "cash_and_equivalents": 530819000000.0,
+      "inventory": 706476000000.0,
+      "accounts_receivable": 135692000000.0
+    },
+    "cash_flow": {
+      "operating_cash_flow": 38469000000.0,
+      "capital_expenditure": 0.0,
+      "free_cash_flow": 38469000000.0,
+      "financing_cash_flow": 27238000000.0,
+      "investing_cash_flow": -94239000000.0,
+      "dividends_paid": 3777000000.0,
+      "change_in_cash": null
+    }
+  },
+  "2024-03-31": {
+    "income_statement": {
+      "total_revenue": 66264000000.0,
+      "net_interest_income": 47438000000.0,
+      "net_income": 13419000000.0,
+      "gross_profit": 40050000000.0,
+      "operating_income": 17293000000.0,
+      "ebitda": 19297000000.0,
+      "research_development": null,
+      "selling_general_admin": 13366000000.0,
+      "interest_expense": 24356000000.0,
+      "income_before_tax": 17293000000.0
+    },
+    "balance_sheet": {
+      "total_assets": 4090727000000.0,
+      "total_current_assets": 917285000000.0,
+      "total_debt": 767810000000.0,
+      "short_term_debt": null,
+      "long_term_debt": 395872000000.0,
+      "total_current_liabilities": 3028674000000.0,
+      "stockholders_equity": 336637000000.0,
+      "retained_earnings": 342414000000.0,
+      "cash_and_equivalents": 562116000000.0,
+      "inventory": -13842037800000.0,
+      "accounts_receivable": 129823000000.0
+    },
+    "cash_flow": {
+      "operating_cash_flow": -154158000000.0,
+      "capital_expenditure": 0.0,
+      "free_cash_flow": -154158000000.0,
+      "financing_cash_flow": 141168000000.0,
+      "investing_cash_flow": -43379000000.0,
+      "dividends_paid": 3493000000.0,
+      "change_in_cash": null
+    }
+  },
+  "2023-12-31": {
+    "income_statement": {
+      "total_revenue": 61933000000.0,
+      "net_interest_income": 47384000000.0,
+      "net_income": 9307000000.0,
+      "gross_profit": 35849000000.0,
+      "operating_income": 11326000000.0,
+      "ebitda": 14663000000.0,
+      "research_development": null,
+      "selling_general_admin": 11847000000.0,
+      "interest_expense": 23333000000.0,
+      "income_before_tax": 11326000000.0
+    },
+    "balance_sheet": {
+      "total_assets": 3875393000000.0,
+      "total_current_assets": 923999000000.0,
+      "total_debt": 653072000000.0,
+      "short_term_debt": null,
+      "long_term_debt": 391825000000.0,
+      "total_current_liabilities": 3119470000000.0,
+      "stockholders_equity": 327878000000.0,
+      "retained_earnings": 332901000000.0,
+      "cash_and_equivalents": 624151000000.0,
+      "inventory": -1856346000000.0,
+      "accounts_receivable": 107363000000.0
+    },
+    "cash_flow": {
+      "operating_cash_flow": 60231000000.0,
+      "capital_expenditure": 0.0,
+      "free_cash_flow": 60231000000.0,
+      "financing_cash_flow": -35897000000.0,
+      "investing_cash_flow": 79882000000.0,
+      "dividends_paid": 3426000000.0,
+      "change_in_cash": null
+    }
+  },
+  "2023-09-30": {
+    "income_statement": {
+      "total_revenue": 61591000000.0,
+      "net_interest_income": 44556000000.0,
+      "net_income": 13151000000.0,
+      "gross_profit": 38390000000.0,
+      "operating_income": 16733000000.0,
+      "ebitda": 18752000000.0,
+      "research_development": null,
+      "selling_general_admin": 11726000000.0,
+      "interest_expense": 21830000000.0,
+      "income_before_tax": 16733000000.0
+    },
+    "balance_sheet": {
+      "total_assets": 3898333000000.0,
+      "total_current_assets": 823692000000.0,
+      "total_debt": 677013000000.0,
+      "short_term_debt": null,
+      "long_term_debt": 362793000000.0,
+      "total_current_liabilities": 2901203000000.0,
+      "stockholders_equity": 317371000000.0,
+      "retained_earnings": 327044000000.0,
+      "cash_and_equivalents": 511369000000.0,
+      "inventory": -1779732000000.0,
+      "accounts_receivable": 127752000000.0
+    },
+    "cash_flow": {
+      "operating_cash_flow": 45119000000.0,
+      "capital_expenditure": 0.0,
+      "free_cash_flow": 45119000000.0,
+      "financing_cash_flow": -4316000000.0,
+      "investing_cash_flow": -12239000000.0,
+      "dividends_paid": 3386000000.0,
+      "change_in_cash": null
+    }
+  },
+  "2023-06-30": {
+    "income_statement": {
+      "total_revenue": 58447000000.0,
+      "net_interest_income": 41644000000.0,
+      "net_income": 14472000000.0,
+      "gross_profit": 35696000000.0,
+      "operating_income": 17586000000.0,
+      "ebitda": 18093000000.0,
+      "research_development": null,
+      "selling_general_admin": 11216000000.0,
+      "interest_expense": 19865000000.0,
+      "income_before_tax": 17586000000.0
+    },
+    "balance_sheet": {
+      "total_assets": 3868240000000.0,
+      "total_current_assets": 797082000000.0,
+      "total_debt": 671372000000.0,
+      "short_term_debt": null,
+      "long_term_debt": 364078000000.0,
+      "total_current_liabilities": 2899508000000.0,
+      "stockholders_equity": 312516000000.0,
+      "retained_earnings": 317359000000.0,
+      "cash_and_equivalents": 495123000000.0,
+      "inventory": -1733114000000.0,
+      "accounts_receivable": 111561000000.0
+    },
+    "cash_flow": {
+      "operating_cash_flow": 18865000000.0,
+      "capital_expenditure": 9920000000.0,
+      "free_cash_flow": 28785000000.0,
+      "financing_cash_flow": -49915000000.0,
+      "investing_cash_flow": -18243000000.0,
+      "dividends_paid": 3277000000.0,
+      "change_in_cash": -49293000000.0
+    }
+  },
+  "2023-03-31": {
+    "income_statement": {
+      "total_revenue": 54641000000.0,
+      "net_interest_income": 37004000000.0,
+      "net_income": 12622000000.0,
+      "gross_profit": 36074000000.0,
+      "operating_income": 15967000000.0,
+      "ebitda": 17616000000.0,
+      "research_development": null,
+      "selling_general_admin": 11993000000.0,
+      "interest_expense": 16293000000.0,
+      "income_before_tax": 15967000000.0
+    },
+    "balance_sheet": {
+      "total_assets": 3744305000000.0,
+      "total_current_assets": 844825000000.0,
+      "total_debt": 584126000000.0,
+      "short_term_debt": null,
+      "long_term_debt": 440642000000.0,
+      "total_current_liabilities": 2855754000000.0,
+      "stockholders_equity": 303082000000.0,
+      "retained_earnings": 306208000000.0,
+      "cash_and_equivalents": 546000000000.0,
+      "inventory": -1753431000000.0,
+      "accounts_receivable": 115316000000.0
+    },
+    "cash_flow": {
+      "operating_cash_flow": -111241000000.0,
+      "capital_expenditure": 0.0,
+      "free_cash_flow": -111241000000.0,
+      "financing_cash_flow": 64557000000.0,
+      "investing_cash_flow": 23794000000.0,
+      "dividends_paid": 3374000000.0,
+      "change_in_cash": -22890000000.0
+    }
+  },
+  "2022-12-31": {
+    "income_statement": {
+      "total_revenue": 34547000000.0,
+      "net_interest_income": 33054000000.0,
+      "net_income": 11008000000.0,
+      "gross_profit": 32259000000.0,
+      "operating_income": 11155000000.0,
+      "ebitda": 12826000000.0,
+      "research_development": null,
+      "selling_general_admin": 4908000000.0,
+      "interest_expense": 12862000000.0,
+      "income_before_tax": 13237000000.0
+    },
+    "balance_sheet": {
+      "total_assets": 3665743000000.0,
+      "total_current_assets": 889122000000.0,
+      "total_debt": 542505000000.0,
+      "short_term_debt": null,
+      "long_term_debt": 190586000000.0,
+      "total_current_liabilities": 3053636000000.0,
+      "stockholders_equity": 292332000000.0,
+      "retained_earnings": 296456000000.0,
+      "cash_and_equivalents": 567234000000.0,
+      "inventory": -1647386000000.0,
+      "accounts_receivable": 125189000000.0
+    },
+    "cash_flow": {
+      "operating_cash_flow": 101222000000.0,
+      "capital_expenditure": 0.0,
+      "free_cash_flow": 101222000000.0,
+      "financing_cash_flow": -142344000000.0,
+      "investing_cash_flow": -51530000000.0,
+      "dividends_paid": 3376000000.0,
+      "change_in_cash": -92652000000.0
+    }
+  },
+  "2022-09-30": {
+    "income_statement": {
+      "total_revenue": 40795000000.0,
+      "net_interest_income": 25611000000.0,
+      "net_income": 9737000000.0,
+      "gross_profit": 31179000000.0,
+      "operating_income": 12001000000.0,
+      "ebitda": 13772000000.0,
+      "research_development": null,
+      "selling_general_admin": 10539000000.0,
+      "interest_expense": 8093000000.0,
+      "income_before_tax": 12001000000.0
+    },
+    "balance_sheet": {
+      "total_assets": 3773884000000.0,
+      "total_current_assets": 965118000000.0,
+      "total_debt": 575278000000.0,
+      "short_term_debt": null,
+      "long_term_debt": 201957000000.0,
+      "total_current_liabilities": 2886298000000.0,
+      "stockholders_equity": 288018000000.0,
+      "retained_earnings": 288776000000.0,
+      "cash_and_equivalents": 644187000000.0,
+      "inventory": -1705380000000.0,
+      "accounts_receivable": 143905000000.0
+    },
+    "cash_flow": {
+      "operating_cash_flow": -18204000000.0,
+      "capital_expenditure": 0.0,
+      "free_cash_flow": -18204000000.0,
+      "financing_cash_flow": -32883000000.0,
+      "investing_cash_flow": 39522000000.0,
+      "dividends_paid": 3412000000.0,
+      "change_in_cash": -11565000000.0
+    }
+  },
+  "2022-06-30": {
+    "income_statement": {
+      "total_revenue": 34227000000.0,
+      "net_interest_income": 18646000000.0,
+      "net_income": 8649000000.0,
+      "gross_profit": 29614000000.0,
+      "operating_income": 10865000000.0,
+      "ebitda": 12654000000.0,
+      "research_development": null,
+      "selling_general_admin": 10301000000.0,
+      "interest_expense": 3518000000.0,
+      "income_before_tax": 10865000000.0
+    },
+    "balance_sheet": {
+      "total_assets": 3841314000000.0,
+      "total_current_assets": 1021609000000.0,
+      "total_debt": 569353000000.0,
+      "short_term_debt": null,
+      "long_term_debt": 426103000000.0,
+      "total_current_liabilities": 2942993000000.0,
+      "stockholders_equity": 286143000000.0,
+      "retained_earnings": 282445000000.0,
+      "cash_and_equivalents": 669260000000.0,
+      "inventory": -1886356000000.0,
+      "accounts_receivable": 145442000000.0
+    },
+    "cash_flow": {
+      "operating_cash_flow": 66018000000.0,
+      "capital_expenditure": 0.0,
+      "free_cash_flow": 66018000000.0,
+      "financing_cash_flow": -83802000000.0,
+      "investing_cash_flow": -53203000000.0,
+      "dividends_paid": 3344000000.0,
+      "change_in_cash": -70987000000.0
+    }
+  },
+  "2022-03-31": {
+    "income_statement": {
+      "total_revenue": 32342000000.0,
+      "net_interest_income": 15496000000.0,
+      "net_income": 8282000000.0,
+      "gross_profit": 29254000000.0,
+      "operating_income": 10063000000.0,
+      "ebitda": 11883000000.0,
+      "research_development": null,
+      "selling_general_admin": 10787000000.0,
+      "interest_expense": 1624000000.0,
+      "income_before_tax": 10063000000.0
+    },
+    "balance_sheet": {
+      "total_assets": 3954687000000.0,
+      "total_current_assets": 1199495000000.0,
+      "total_debt": 574683000000.0,
+      "short_term_debt": null,
+      "long_term_debt": 293239000000.0,
+      "total_current_liabilities": 3044734000000.0,
+      "stockholders_equity": 285899000000.0,
+      "retained_earnings": 277177000000.0,
+      "cash_and_equivalents": 754532000000.0,
+      "inventory": -2018856000000.0,
+      "accounts_receivable": 152207000000.0
+    },
+    "cash_flow": {
+      "operating_cash_flow": -41917000000.0,
+      "capital_expenditure": 0.0,
+      "free_cash_flow": -41917000000.0,
+      "financing_cash_flow": 132772000000.0,
+      "investing_cash_flow": -72608000000.0,
+      "dividends_paid": 3430000000.0,
+      "change_in_cash": 18247000000.0
+    }
+  },
+  "2021-12-31": {
+    "income_statement": {
+      "total_revenue": 30706000000.0,
+      "net_interest_income": 15019000000.0,
+      "net_income": 10399000000.0,
+      "gross_profit": 30545000000.0,
+      "operating_income": 12657000000.0,
+      "ebitda": 14588000000.0,
+      "research_development": null,
+      "selling_general_admin": 9065000000.0,
+      "interest_expense": 1418000000.0,
+      "income_before_tax": 12657000000.0
+    },
+    "balance_sheet": {
+      "total_assets": 3743567000000.0,
+      "total_current_assets": 1133661000000.0,
+      "total_debt": 548939000000.0,
+      "short_term_debt": null,
+      "long_term_debt": 301005000000.0,
+      "total_current_liabilities": 3127885000000.0,
+      "stockholders_equity": 294127000000.0,
+      "retained_earnings": 272268000000.0,
+      "cash_and_equivalents": 740834000000.0,
+      "inventory": -1802042000000.0,
+      "accounts_receivable": 102570000000.0
+    },
+    "cash_flow": {
+      "operating_cash_flow": 85095000000.0,
+      "capital_expenditure": 0.0,
+      "free_cash_flow": 85095000000.0,
+      "financing_cash_flow": -2022000000.0,
+      "investing_cash_flow": -100158000000.0,
+      "dividends_paid": 3386000000.0,
+      "change_in_cash": -17085000000.0
+    }
+  },
+  "2021-09-30": {
+    "income_statement": {
+      "total_revenue": 31061000000.0,
+      "net_interest_income": 14480000000.0,
+      "net_income": 11687000000.0,
+      "gross_profit": 31174000000.0,
+      "operating_income": 14111000000.0,
+      "ebitda": 16039000000.0,
+      "research_development": null,
+      "selling_general_admin": 9087000000.0,
+      "interest_expense": 1400000000.0,
+      "income_before_tax": 14111000000.0
+    },
+    "balance_sheet": {
+      "total_assets": 3757576000000.0,
+      "total_current_assets": 1114233000000.0,
+      "total_debt": 603778000000.0,
+      "short_term_debt": null,
+      "long_term_debt": 298465000000.0,
+      "total_current_liabilities": 2887209000000.0,
+      "stockholders_equity": 290041000000.0,
+      "retained_earnings": 265276000000.0,
+      "cash_and_equivalents": 759869000000.0,
+      "inventory": -2665841000000.0,
+      "accounts_receivable": 116395000000.0
+    },
+    "cash_flow": {
+      "operating_cash_flow": 25617000000.0,
+      "capital_expenditure": 0.0,
+      "free_cash_flow": 25617000000.0,
+      "financing_cash_flow": 97047000000.0,
+      "investing_cash_flow": -64561000000.0,
+      "dividends_paid": 3158000000.0,
+      "change_in_cash": 58103000000.0
+    }
+  },
+  "2021-06-30": {
+    "income_statement": {
+      "total_revenue": 31839000000.0,
+      "net_interest_income": 14094000000.0,
+      "net_income": 11948000000.0,
+      "gross_profit": 32764000000.0,
+      "operating_income": 15097000000.0,
+      "ebitda": 17100000000.0,
+      "research_development": null,
+      "selling_general_admin": 9814000000.0,
+      "interest_expense": 1353000000.0,
+      "income_before_tax": 15097000000.0
+    },
+    "balance_sheet": {
+      "total_assets": 3684256000000.0,
+      "total_current_assets": 1050636000000.0,
+      "total_debt": 597301000000.0,
+      "short_term_debt": null,
+      "long_term_debt": 427748000000.0,
+      "total_current_liabilities": 2786459000000.0,
+      "stockholders_equity": 286386000000.0,
+      "retained_earnings": 256983000000.0,
+      "cash_and_equivalents": 705421000000.0,
+      "inventory": -2517200000000.0,
+      "accounts_receivable": 125253000000.0
+    },
+    "cash_flow": {
+      "operating_cash_flow": 13530000000.0,
+      "capital_expenditure": 0.0,
+      "free_cash_flow": 13530000000.0,
+      "financing_cash_flow": -37943000000.0,
+      "investing_cash_flow": 17698000000.0,
+      "dividends_paid": 3121000000.0,
+      "change_in_cash": -6715000000.0
+    }
+  },
+  "2021-03-31": {
+    "income_statement": {
+      "total_revenue": 33632000000.0,
+      "net_interest_income": 14271000000.0,
+      "net_income": 14300000000.0,
+      "gross_profit": 36422000000.0,
+      "operating_income": 17697000000.0,
+      "ebitda": 19767000000.0,
+      "research_development": null,
+      "selling_general_admin": 10601000000.0,
+      "interest_expense": 1382000000.0,
+      "income_before_tax": 17697000000.0
+    },
+    "balance_sheet": {
+      "total_assets": 3689336000000.0,
+      "total_current_assets": 1141228000000.0,
+      "total_debt": 638424000000.0,
+      "short_term_debt": null,
+      "long_term_debt": 279427000000.0,
+      "total_current_liabilities": 2828458000000.0,
+      "stockholders_equity": 280714000000.0,
+      "retained_earnings": 248151000000.0,
+      "cash_and_equivalents": 711072000000.0,
+      "inventory": 551000000.0,
+      "accounts_receivable": 114754000000.0
+    },
+    "cash_flow": {
+      "operating_cash_flow": -43872000000.0,
+      "capital_expenditure": 0.0,
+      "free_cash_flow": -43872000000.0,
+      "financing_cash_flow": 218911000000.0,
+      "investing_cash_flow": 15391000000.0,
+      "dividends_paid": 3193000000.0,
+      "change_in_cash": 190430000000.0
+    }
+  },
+  "2020-12-31": {
+    "income_statement": {
+      "total_revenue": 30558000000.0,
+      "net_interest_income": 14550000000.0,
+      "net_income": 12136000000.0,
+      "gross_profit": 31113000000.0,
+      "operating_income": 15065000000.0,
+      "ebitda": 17192000000.0,
+      "research_development": null,
+      "selling_general_admin": 7954000000.0,
+      "interest_expense": 1292000000.0,
+      "income_before_tax": 15065000000.0
+    },
+    "balance_sheet": {
+      "total_assets": 3384757000000.0,
+      "total_current_assets": 974063000000.0,
+      "total_debt": 542102000000.0,
+      "short_term_debt": null,
+      "long_term_debt": 187759000000.0,
+      "total_current_liabilities": 2798440000000.0,
+      "stockholders_equity": 279354000000.0,
+      "retained_earnings": 236990000000.0,
+      "cash_and_equivalents": 527609000000.0,
+      "inventory": 333000000.0,
+      "accounts_receivable": 90503000000.0
+    },
+    "cash_flow": {
+      "operating_cash_flow": -28052000000.0,
+      "capital_expenditure": 0.0,
+      "free_cash_flow": -28052000000.0,
+      "financing_cash_flow": 125958000000.0,
+      "investing_cash_flow": -63706000000.0,
+      "dividends_paid": 3139000000.0,
+      "change_in_cash": 34200000000.0
+    }
+  },
+  "2020-09-30": {
+    "income_statement": {
+      "total_revenue": 30845000000.0,
+      "net_interest_income": 14700000000.0,
+      "net_income": 9443000000.0,
+      "gross_profit": 28644000000.0,
+      "operating_income": 11769000000.0,
+      "ebitda": 13910000000.0,
+      "research_development": null,
+      "selling_general_admin": 8630000000.0,
+      "interest_expense": 1687000000.0,
+      "income_before_tax": 11769000000.0
+    },
+    "balance_sheet": {
+      "total_assets": 3246076000000.0,
+      "total_current_assets": 919765000000.0,
+      "total_debt": 557607000000.0,
+      "short_term_debt": null,
+      "long_term_debt": 181684000000.0,
+      "total_current_liabilities": 2442341000000.0,
+      "stockholders_equity": 271113000000.0,
+      "retained_earnings": 228014000000.0,
+      "cash_and_equivalents": 487522000000.0,
+      "inventory": 197000000.0,
+      "accounts_receivable": 76945000000.0
+    },
+    "cash_flow": {
+      "operating_cash_flow": -14688000000.0,
+      "capital_expenditure": 0.0,
+      "free_cash_flow": -14688000000.0,
+      "financing_cash_flow": 19251000000.0,
+      "investing_cash_flow": -14727000000.0,
+      "dividends_paid": 3209000000.0,
+      "change_in_cash": -10164000000.0
+    }
+  }
+}

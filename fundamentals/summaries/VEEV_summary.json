@@ -1,0 +1,53 @@
+{
+  "basic_info": {
+    "symbol": "VEEV",
+    "name": "Veeva Systems Inc Class A",
+    "sector": "TECHNOLOGY",
+    "industry": "SERVICES-PREPACKAGED SOFTWARE",
+    "country": "USA",
+    "currency": "USD"
+  },
+  "market_data": {
+    "market_cap": "45975966000",
+    "shares_outstanding": "163412000",
+    "52_week_high": "296.72",
+    "52_week_low": "177.41",
+    "50_day_ma": "278.44",
+    "200_day_ma": "239.12"
+  },
+  "valuation_ratios": {
+    "pe_ratio": "59.86",
+    "peg_ratio": "1.521",
+    "price_to_book": "7.4",
+    "price_to_sales": "16.1",
+    "ev_revenue": "14.0",
+    "ev_ebitda": "49.32"
+  },
+  "profitability_metrics": {
+    "profit_margin": "0.273",
+    "operating_margin_ttm": "0.308",
+    "return_on_assets_ttm": "0.069",
+    "return_on_equity_ttm": "0.141",
+    "gross_profit_ttm": "2155741000"
+  },
+  "financial_strength": {
+    "revenue_ttm": "2855317000",
+    "revenue_per_share_ttm": "17.6",
+    "quarterly_revenue_growth": "0.167",
+    "quarterly_earnings_growth": "0.398",
+    "book_value": "38.11",
+    "diluted_eps_ttm": "4.7"
+  },
+  "dividend_info": {
+    "dividend_per_share": "None",
+    "dividend_yield": "None",
+    "dividend_date": "None",
+    "ex_dividend_date": "None"
+  },
+  "technical_indicators": {
+    "beta": "0.986",
+    "analyst_target_price": "296.17",
+    "trailing_pe": "59.86",
+    "forward_pe": "38.02"
+  }
+}
