@@ -1,0 +1,4 @@
+Ticker,fiscal_date_ending,earnings_report_date,reported_eps,estimated_eps,earnings_surprise,earnings_surprise_percent
+AAPL,2025-06-30,2025-07-31,1.57,1.41,0.16,11.3475
+GOOGL,2025-06-30,2025-07-23,2.31,2.17,0.14,6.4516
+MSFT,2025-06-30,2025-07-30,3.65,3.37,0.28,8.3086

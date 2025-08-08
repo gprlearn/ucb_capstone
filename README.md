@@ -1,8 +1,8 @@
 # Stock Price Prediction using Time Series Analysis
 
 **Author:** Prasad Rao  
-**Date:** July 31, 2025  
-**Course:** Machine Learning and AI Capstone Project
+**Date:** August 10th, 2025  
+**Course:** Professional Certificate in ML and AI
 
 ## Project Overview
 
@@ -85,138 +85,121 @@ Ultimately, the prediction is to be used carefully, and only over many investmen
 
 ## Repository Structure
 
+
 ```
 /
-├── README.md                            # This file
-├── 1_main.ipynb                         # Main notebook that has the final takeaways
-├── 2_fundamental_data.ipynb             # Fundamental analysis workbook notebook
-├── 3_correlation_and_fair_price.ipynb   # Correlation and Fair Price workbook notebook
-├── 4_technical_price_prediction.ipynb   # Technical price prediction notebook
-├── ticker_data/                         # Data files downloaded  from Alphavantage data service for the capstone project
-├── quarterly_reports/                   # Quarterly reports data files downloaded  from Alphavantage data service for the capstone project
-├── fundamentals/                        # Fundamentals files downloaded  from Alphavantage data service for the capstone project
-├── earnings_data/                       # Historical Earnings Data files downloaded  from Alphavantage data service for the capstone project
-├── results/                             # Output charts and model results
-└── requirements.txt                     # Python dependencies
+├── README.md                          # This file
+├── 1_main.ipynb                       # Main notebook with final takeaways
+├── 2_fundamental_data.ipynb           # Fundamental analysis notebook
+├── 3_correlation_and_fair_price.ipynb # Correlation and Fair Price notebook
+├── 4_technical_price_prediction.ipynb # Technical price prediction notebook
+├── ticker_data/                       # Downloaded ticker data
+├── quarterly_reports/                 # Downloaded quarterly reports
+├── fundamentals/                      # Downloaded fundamentals
+├── earnings_data/                     # Historical earnings data
+├── results/                           # Output charts and model results
+└── requirements.txt                   # Python dependencies
 ```
 
 ## Getting Started
 
+
 1. Clone this repository
 2. Install required dependencies: `pip install -r requirements.txt`
-3. Open python notebooks in Jupyter Notebook
+3. Open the Python notebooks in Jupyter Notebook or VS Code
 4. Run cells sequentially to reproduce the analysis
+
 
 
 ## Summary of Findings
 
 ### Strategies for Stock Price Prediction
 
-Selected approximately 50 US companies that are considered trending in the summer of 2025. Based on my experience with trading and investing, I am familiar that stock price prediction is impossible due to the number of factors that can influence the price. Not just the performance results of the company, it is the market sentiment, the political conditions, economic indicators, fiscal decisions by law makers and the fed reserve, government investment in infrastructure, the geopolitical conditions. Short term predictions are almost impossible to predict.
+Selected approximately 50 US companies that were trending in the summer of 2025. Based on my experience with trading and investing, I recognize that stock price prediction is extremely challenging due to the multitude of influencing factors: company performance, market sentiment, political and economic conditions, fiscal policy, government investment, and global events. Short-term predictions are especially difficult.
 
-1. Innovation and Technology stocks are favorable in Bullish Market. Consumer Staples and Utilities provide safe harbor during Bearish Market
+#### 1. Sector Rotation and Market Regimes
 
-On bullish market the hypothesis is technology and innovation stands to gain. In bearish market, money is moved to more consumer staples - everyone needs to brush their teeth. For the sector analysis, we used the SPDR ETFs. XLK, XLV, XLE, XLI, XLP, XLU, XLF, XLY, XLB, XLC, XLRE. Here are the findings:
-Bull Markets: XLK (Technology) dominates and XLP (Consumer Staples) lags
-Bear Markets: XLP (Consumer Staples) loses least and XLK (Technology) gets crushed
+- **Bull Markets:** Innovation and technology stocks (e.g., XLK) tend to outperform, while consumer staples (XLP) lag.
+- **Bear Markets:** Consumer staples (XLP) provide downside protection, while technology (XLK) underperforms.
+- **Risk-On Leaders:** XLK, XLE, XLF (cyclical, high-beta sectors)
+- **Defensive Winners:** XLP, XLU, XLV (consumer staples, utilities, healthcare)
+- **Energy (XLE):** Highly cyclical—strong in bull markets, weak in bear markets.
+- **Financials (XLF):** Track the economic cycle—strong in bulls, weak in bears.
+- **Investment Strategy:**
+  - Momentum: Rotate into XLK, XLE, XLF during bull markets
+  - Defense: Rotate into XLP, XLU, XLV during bear markets
+  - Highest Alpha: XLK offers the widest spread (5.03%)
+  - Risk Management: XLU provides consistent downside protection
 
-Risk-On Leaders (Bull Days): XLK, XLE, XLF - cyclical, high-beta sectors
-Defensive Winners (Bear Days): XLP, XLU, XLV - consumer staples, utilities, healthcare
-Energy (XLE) is extremely cyclical - 2nd best bull performer and 2nd worst bear performer
-Financials (XLF) follow economic cycle - strong bull performance but heavy bear losses
-Consumer Staples (XLP) are true defense - worst bull performer (+1.24%) but best bear protection (-1.33%)
+#### 2. Monthly Cycles
 
-Investment Strategy Implications:
-Momentum Strategy: Rotate into XLK, XLE, XLF during bull markets
-Defensive Strategy: Rotate into XLP, XLU, XLV during bear markets
-Highest Alpha Opportunity: XLK has the widest spread (5.03%) - most timing potential
-Risk Management: XLU provides consistent downside protection while still participating in upside
+- **Best Months:** July and November for daily returns (notable for day traders)
+- **Worst Month:** September is statistically a drawdown month
 
-2. Monthly Cycles
+**Why is the market weak in September?**
 
-July and November are the best months for daily returns. This is interesting for Day Traders
-September is drawndown month statistically
+- "Sell in May and Go Away": May–October is historically weaker for returns (S&P 500 averages 1.5% vs. 7.5% for Nov–Apr)
+- Summer Doldrums: August/September see lower trading activity and higher volatility
+- Historical Performance: S&P 500 averages a 0.1% loss in August over 20 years
 
-Why is the market selling in September?
+**Why is November strong?**
 
-“Sell in May and Go Away”: This well-known adage suggests that the period from May to October, which includes August, tends to be weaker for stock market returns. This is supported by data from the Stock Trader’s Almanac showing the S&P 500 averaging a 7.5% return from November to April, but only 1.5% from May to October.
+- "Sell in May" Counterpoint: Investors return in late October for the strong Nov–Apr period
+- Potential Drivers: Mutual fund activity, tax-related moves
+- Recent Example: 2024 saw strong November rallies in major US indices
 
-Summer Doldrums: August falls within the “summer doldrums,” a period of lower trading activity as many investors take vacations. This reduced volume can lead to higher volatility and potentially lower overall market performance.
+#### 3. Quarterly Cycles
 
-Historical Performance: Over the past 20 years, the S&P 500 has averaged a 0.1% loss in August. Go back 10 years, and the average gain is a meager 0.1%, making it the third-worst month historically.
+- **Q1 – Tech Dominance:**
+  - XLK leads (~0.087 risk-adjusted ratio)
+  - Post-holiday capital rotation into growth
+- **Q2 – Communication Services Surge:**
+  - XLC dominates (~0.065), likely due to ad/social media earnings
+  - XLK remains strong
+- **Q3 – Materials & Industrials Leadership:**
+  - XLB leads (~0.065), commodity cycle effects
+  - XLF, XLI strong (economic activity/infrastructure)
+- **Q4 – Consumer Discretionary Explosion:**
+  - XLY dominates (~0.101, highest single-quarter performance)
+  - Broad-based sector strength, classic year-end rally
 
-Why is the market selling in September?
+#### 4. Predicting Stock Prices Based on Quarterly Results
 
-“Sell in May and Go Away”: This well-known adage suggests that the period from May to October, which includes August, tends to be weaker for stock market returns. This is supported by data from the Stock Trader’s Almanac showing the S&P 500 averaging a 7.5% return from November to April, but only 1.5% from May to October.
+Quarterly earnings reports often trigger significant price corrections that unfold over 60-90 days. Accurately forecasting the direction and magnitude of these corrections was a central focus. To support this, I collected and analyzed quarterly and earnings data for all selected stocks.
 
-Summer Doldrums: August falls within the “summer doldrums,” a period of lower trading activity as many investors take vacations. This reduced volume can lead to higher volatility and potentially lower overall market performance.
+#### 5. Time Series Modeling: STL, ARIMA, and Regression
 
-Historical Performance: Over the past 20 years, the S&P 500 has averaged a 0.1% loss in August. Go back 10 years, and the average gain is a meager 0.1%, making it the third-worst month historically.
+To model and forecast stock prices, I applied several time series techniques:
 
-Why is November an Up month?
+- **STL Decomposition (Seasonal-Trend decomposition using Loess):**
+  - **Trend:** Captures the long-term movement in stock price (upward, downward, or stable).
+  - **Seasonal:** Recurring patterns at regular intervals (e.g., intraday, day-of-week, monthly, quarterly, or event-driven like earnings or holidays).
+  - **Residual:** The irregular, random fluctuations remaining after removing trend and seasonality (the "noise").
+  - The decomposition follows:  
+    `Observed = Trend + Seasonal + Remainder`
 
-“Sell in May” Counterpoint: Savvy investors might return to the market around Halloween (end of October) to capitalize on the historically stronger November through April period.
+- **ARIMA Modeling:**
+  - Used to capture autocorrelation and forecast future values based on past price behavior.
+  - Integrated with STL to model the trend and seasonal components separately.
 
-Potential Drivers: Some theories suggest the November effect could be related to mutual fund behavior or tax-related activities, though pinpointing a definitive cause is difficult.
+- **Quadratic Regression:**
+  - Explored as a baseline for capturing non-linear price trends over time.
 
-Strong Recent Performance: In 2024, US stock indices like the S&P 500 and Dow Jones Industrial Average experienced strong rallies in November.
+**Key Insights:**
+- STL decomposition is useful for isolating long-term trends and recurring patterns, which can inform trading strategies and risk management.
+- Predicting the seasonal component is highly company-specific (e.g., Amazon’s end-of-year sales spikes).
+- The random (residual) component remains difficult to model and is a major source of forecast uncertainty.
 
-3. Quarterly Cycles
+**Limitations:**
+- No single model provided consistently accurate forecasts across all stocks and periods.
+- The unpredictable nature of market events and company-specific news limits the effectiveness of purely quantitative models.
 
-- Q1 — Tech Dominance:
+## Conclusion and Future Work
 
-XLK leads with ~0.087 risk-adjusted ratio — January tech momentum effect
-Post-holiday capital rotation into growth sectors
-Strong risk-adjusted performance suggests consistent Q1 tech outperformance
+This project demonstrates the complexity of stock price prediction, especially when combining technical and fundamental data. While time series decomposition and ARIMA models can reveal useful structure, real-world forecasting remains challenging due to market noise and external factors. Future work could include:
+- Incorporating alternative data sources (news sentiment, macroeconomic indicators)
+- Using ensemble or machine learning models for improved predictive power
+- Automating feature selection and model tuning
 
-- Q2 — Communication Services Surge:
-
-XLC dominates with ~0.065 — likely driven by advertising/social media earnings
-XLK remains strong — continued tech momentum through spring
-Q2 appears optimal for growth/tech sector overweighting
-
-- Q3 — Materials & Industrials Leadership:
-
-XLB (Materials) leads at ~0.065 — commodity cycle effects
-XLF, XLI strong — economic activity/infrastructure themes
-Summer rotation from tech into cyclical value sectors
-
--cQ4 — Consumer Discretionary Explosion:
-
-XLY dominates with ~0.101 (highest single-quarter performance) — Holiday/Santa Rally
-Broad-based strength across most sectors
-Classic year-end risk-on environment
-
-4. Predicting Stock Prices based on Quarterly Results
-
-When quarterly reports are released, the stock price begins a journey of correction either to the upside or downside that usually lasts 60-90 days. Being able to correctly identify the direction in which the correction could happen, was the focus. For this I downloaded quarterly and earnings data for the stocks that were selected. 
-
-5. Using STL, ARIMA and Quadratic Regression techniques to predict
-
-With STL using Loess, I was able to decompose the stock price time series into three main components:
-
-Trend - The long-term directional movement of the stock price, showing whether it's generally increasing, decreasing, or remaining stable over time
-
-Seasonal - Recurring patterns that occur at regular intervals, such as:
-- Intraday patterns (opening/closing effects)
-- Day-of-week effects (Monday effect, Friday effect)
-- Monthly or quarterly patterns
-- Holiday or earnings season effects
-
-
-Residual - The irregular, random fluctuations that remain after removing the trend and seasonal components. This represents the "noise" or unpredictable movements in the stock price
-
-The decomposition follows the equation:
-Observed = Trend + Seasonal + Remainder
-
-I was looking for ways to predict the seasonal component. For example Amazon will be high volume around end of year shopping season and may be around the once or twice a year events like black friday sales events. This is highly subjective for each company.
-
-For stock prices, this decomposition can be particularly useful for:
-
-Identifying the underlying long-term direction separate from short-term volatility
-Detecting recurring patterns that might inform trading strategies
-Isolating the random component to better understand the stock's volatility characteristics
-Forecasting by modeling each component separately
-
-There wasnt anything conclusive about the research from this part of the exercise. 
+Despite the challenges, the approach outlined here provides a solid foundation for further research and practical experimentation in financial time series forecasting.
 
